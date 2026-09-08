@@ -15,11 +15,14 @@ from pathlib import Path
 SPARQL_ENDPOINT = "https://query.wikidata.org/sparql"
 USER_AGENT = "VTuberDictBuilder/1.0 (https://github.com; open-source-vtuber-dict)"
 
-# バーチャルYouTuber(Q60783350)のインスタンスを取得するSPARQLクエリ
+# バーチャルYouTuber(Q55155641)のインスタンス(P31)および職業(P106)を取得するSPARQLクエリ
 QUERY_TEMPLATE = """
-SELECT DISTINCT ?item ?itemLabel ?kana ?affiliationLabel WHERE {{
-  ?item wdt:P31/wdt:P279* wd:Q60783350 .
+SELECT DISTINCT ?item ?itemLabel ?kana ?altLabel ?affiliationLabel WHERE {{
+  {{ ?item wdt:P31/wdt:P279* wd:Q55155641 . }}
+  UNION
+  {{ ?item wdt:P106/wdt:P279* wd:Q55155641 . }}
   OPTIONAL {{ ?item wdt:P1814 ?kana . }}
+  OPTIONAL {{ ?item skos:altLabel ?altLabel . FILTER (lang(?altLabel) = "ja") }}
   OPTIONAL {{ ?item wdt:P361 ?affiliation . }}
   SERVICE wikibase:label {{ bd:serviceParam wikibase:language "ja,en". }}
 }}
@@ -40,7 +43,12 @@ def clean_reading(text: str) -> str:
     cleaned = re.sub(r"[\s・＝=－\-]+", "", text)
     return to_hiragana(cleaned)
 
-def fetch_from_wikidata(limit: int = 1000):
+def is_kana_only(text: str) -> bool:
+    """文字列がひらがな・カタカナ・長音・区切り文字のみで構成されているか判定"""
+    cleaned = re.sub(r"[\s・＝=－\-]+", "", text)
+    return bool(re.match(r"^[\u3040-\u309F\u30A0-\u30FF\u30FC]+$", cleaned))
+
+def fetch_from_wikidata(limit: int = 3000):
     query = QUERY_TEMPLATE.format(limit=limit)
     params = urllib.parse.urlencode({"query": query, "format": "json"})
     url = f"{SPARQL_ENDPOINT}?{params}"
@@ -57,31 +65,50 @@ def fetch_from_wikidata(limit: int = 1000):
     with urllib.request.urlopen(req, timeout=60) as resp:
         data = json.loads(resp.read().decode("utf-8"))
 
-    results = []
     bindings = data.get("results", {}).get("bindings", [])
+    item_map = {}
     for b in bindings:
         item_uri = b.get("item", {}).get("value", "")
         name = b.get("itemLabel", {}).get("value", "").strip()
         kana = b.get("kana", {}).get("value", "").strip()
+        alt = b.get("altLabel", {}).get("value", "").strip()
         affiliation = b.get("affiliationLabel", {}).get("value", "").strip()
 
         # Wikidata IDそのままの名前はスキップ（日本語ラベル未設定等）
         if re.match(r"^Q\d+$", name):
             continue
 
-        readings = []
+        if item_uri not in item_map:
+            item_map[item_uri] = {
+                "name": name,
+                "readings": set(),
+                "affiliation": affiliation if affiliation and not re.match(r"^Q\d+$", affiliation) else "VTuber",
+                "category": "人名",
+                "source": item_uri
+            }
+
+        # 1. 明示的な読み仮名プロパティ (P1814)
         if kana:
-            readings.append(clean_reading(kana))
+            item_map[item_uri]["readings"].add(clean_reading(kana))
+        # 2. 別名 (altLabel) が仮名表記の場合
+        if alt and is_kana_only(alt):
+            item_map[item_uri]["readings"].add(clean_reading(alt))
+        # 3. 単語名自体が仮名のみの場合（例: ルンルン、でびでび・でびる）
+        if is_kana_only(name):
+            item_map[item_uri]["readings"].add(clean_reading(name))
 
-        results.append({
-            "name": name,
-            "readings": list(dict.fromkeys(readings)),
-            "affiliation": affiliation if affiliation and not re.match(r"^Q\d+$", affiliation) else "VTuber",
-            "category": "人名",
-            "source": item_uri
-        })
+    results = []
+    for item in item_map.values():
+        if item["readings"]:
+            results.append({
+                "name": item["name"],
+                "readings": sorted(list(item["readings"])),
+                "affiliation": item["affiliation"],
+                "category": item["category"],
+                "source": item["source"]
+            })
 
-    print(f"Retrieved {len(results)} items from Wikidata.")
+    print(f"Retrieved {len(results)} valid VTuber items from Wikidata.")
     return results
 
 def merge_records(existing_records, new_records):
