@@ -1,5 +1,9 @@
 # Open VTuber IME Dictionary (VTuber変換辞書)
 
+[![Build & Release](https://github.com/ELFIX000/vtuber-dict/actions/workflows/build.yml/badge.svg)](https://github.com/ELFIX000/vtuber-dict/actions/workflows/build.yml)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/ELFIX000/vtuber-dict)](https://github.com/ELFIX000/vtuber-dict/releases/latest)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 VTuber（バーチャルYouTuber）の名前やユニット名を、各種日本語入力システム（IME）でスムーズに一発変換できるようにするオープンソースの変換辞書プロジェクトです。
 
 ---
@@ -7,14 +11,16 @@ VTuber（バーチャルYouTuber）の名前やユニット名を、各種日本
 ## 🌟 特徴
 - **マルチIME対応**: Google 日本語入力 / Mozc、Microsoft IME (Windows)、macOS ユーザ辞書、ATOK に対応。
 - **完全なクリーンルーム開発**: 外部の有償・クローズドな辞書データを一切参照せず、Wikidata（CC0）および公式一次情報のみをもとに構築。
-- **GitHub Actions 自動化**: プルリクエスト時のバリデーション、Wikidataからの定期自動抽出、タグリリース時の一括辞書バイナリ生成。
+- **自動化・履歴管理**: Wikidataからの定期自動抽出、GitHub Actions による自動ビルド、CalVer（日付バージョン）での過去リリース全保存。
 
 ---
 
 ## 📥 ダウンロード
-最新の辞書データは **[Releases](../../releases)** ページからダウンロードできます。
-- `vtuber-dict-all.zip`: 全形式同梱パッケージ
-- 個別ファイル:
+
+最新の辞書データは **[最新リリース（Latest Release）](https://github.com/ELFIX000/vtuber-dict/releases/latest)** または **[すべてのリリース履歴](../../releases)** からダウンロードできます。
+
+- **`vtuber-dict-all.zip`**: 全形式同梱パッケージ（迷ったらこれ）
+- **個別形式**:
   - `google_ime.txt`: Google日本語入力 / Mozc 向け (UTF-8 TSV)
   - `ms_ime.txt`: Microsoft IME (Windows) 向け (UTF-16LE BOM, CRLF TSV)
   - `macos_user_dict.plist`: macOS ユーザ辞書 向け (XML Property List)
