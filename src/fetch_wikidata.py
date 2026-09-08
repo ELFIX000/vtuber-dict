@@ -30,9 +30,11 @@ LIMIT {limit}
 """
 
 KATAKANA_TO_HIRAGANA = str.maketrans(
-    "アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンァィゥェォッャュョヴガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポ",
-    "あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんぁぃぅぇぉっゃゅょゔがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽ"
+    "アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンァィゥェォッャュョヴガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポヰヱヮヵヶ",
+    "あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんぁぃぅぇぉっゃゅょゔがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽゐゑゎかけ"
 )
+
+HIRAGANA_PATTERN = re.compile(r"^[\u3041-\u3096\u3099-\u309fー]+$")
 
 def to_hiragana(text: str) -> str:
     """カタカナをひらがなに変換"""
@@ -87,15 +89,26 @@ def fetch_from_wikidata(limit: int = 3000):
                 "source": item_uri
             }
 
+        # 読みを追加するヘルパー
+        def add_reading(raw_text: str):
+            r = clean_reading(raw_text)
+            if HIRAGANA_PATTERN.match(r):
+                item_map[item_uri]["readings"].add(r)
+                # 現代仮名遣いバリアントも追加（例: さかまたくろゑ -> さかまたくろえ）
+                if "ゑ" in r:
+                    item_map[item_uri]["readings"].add(r.replace("ゑ", "え"))
+                if "ゐ" in r:
+                    item_map[item_uri]["readings"].add(r.replace("ゐ", "い"))
+
         # 1. 明示的な読み仮名プロパティ (P1814)
         if kana:
-            item_map[item_uri]["readings"].add(clean_reading(kana))
+            add_reading(kana)
         # 2. 別名 (altLabel) が仮名表記の場合
         if alt and is_kana_only(alt):
-            item_map[item_uri]["readings"].add(clean_reading(alt))
+            add_reading(alt)
         # 3. 単語名自体が仮名のみの場合（例: ルンルン、でびでび・でびる）
         if is_kana_only(name):
-            item_map[item_uri]["readings"].add(clean_reading(name))
+            add_reading(name)
 
     results = []
     for item in item_map.values():
