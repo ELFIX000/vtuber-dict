@@ -1,72 +1,4147 @@
 [
   {
     "name": "キズナアイ",
-    "readings": ["きずなあい"],
+    "readings": [
+      "きずなあい"
+    ],
     "affiliation": "Kizuna AI Inc.",
     "category": "人名",
     "source": "https://www.wikidata.org/wiki/Q30064219"
   },
   {
     "name": "電脳少女シロ",
-    "readings": ["でんのうしょうじょしろ", "しろ"],
+    "readings": [
+      "でんのうしょうじょしろ",
+      "しろ",
+      "しろいるか"
+    ],
     "affiliation": ".LIVE",
     "category": "人名",
     "source": "https://www.wikidata.org/wiki/Q48762512"
   },
   {
     "name": "ときのそら",
-    "readings": ["ときのそら"],
+    "readings": [
+      "ときのそら"
+    ],
     "affiliation": "ホロライブプロダクション",
     "category": "人名",
     "source": "https://www.wikidata.org/wiki/Q65275812"
   },
   {
     "name": "白上フブキ",
-    "readings": ["しらかみふぶき", "ふぶき"],
+    "readings": [
+      "しらかみふぶき",
+      "ふぶき"
+    ],
     "affiliation": "ホロライブプロダクション",
     "category": "人名",
     "source": "https://www.wikidata.org/wiki/Q85871891"
   },
   {
     "name": "月ノ美兎",
-    "readings": ["つきのみと", "みと"],
+    "readings": [
+      "つきのみと",
+      "みと"
+    ],
     "affiliation": "にじさんじ",
     "category": "人名",
     "source": "https://www.wikidata.org/wiki/Q50821217"
   },
   {
     "name": "樋口楓",
-    "readings": ["ひぐちかえで", "かえで"],
+    "readings": [
+      "ひぐちかえで",
+      "かえで",
+      "でろーん"
+    ],
     "affiliation": "にじさんじ",
     "category": "人名",
     "source": "https://www.wikidata.org/wiki/Q50821226"
   },
   {
     "name": "葛葉",
-    "readings": ["くずは"],
+    "readings": [
+      "くずは"
+    ],
     "affiliation": "にじさんじ",
     "category": "人名",
     "source": "https://www.wikidata.org/wiki/Q97184285"
   },
   {
     "name": "花芽すみれ",
-    "readings": ["かがすみれ", "すみれ"],
+    "readings": [
+      "かがすみれ",
+      "すみれ"
+    ],
     "affiliation": "ぶいすぽっ！",
     "category": "人名",
     "source": "https://www.wikidata.org/wiki/Q110268593"
   },
   {
     "name": "一ノ瀬うるは",
-    "readings": ["いちのせうるは", "うるは"],
+    "readings": [
+      "いちのせうるは",
+      "うるは"
+    ],
     "affiliation": "ぶいすぽっ！",
     "category": "人名",
     "source": "https://www.wikidata.org/wiki/Q110268600"
   },
   {
     "name": "名取さな",
-    "readings": ["なとりさな", "さな"],
+    "readings": [
+      "なとりさな",
+      "さな"
+    ],
     "affiliation": "個人勢",
     "category": "人名",
     "source": "https://www.wikidata.org/wiki/Q65275818"
+  },
+  {
+    "name": "音門るき",
+    "readings": [
+      "おとかどるき"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q112154822"
+  },
+  {
+    "name": "アユンダ・リス",
+    "readings": [
+      "あゆんだりす",
+      "りすちゃん"
+    ],
+    "affiliation": "ホロライブインドネシア",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q98116419"
+  },
+  {
+    "name": "フワモコ",
+    "readings": [
+      "ふわもこ"
+    ],
+    "affiliation": "ホロライブEnglish",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q124353062"
+  },
+  {
+    "name": "マーモットさん",
+    "readings": [
+      "まーもっとさん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q130542430"
+  },
+  {
+    "name": "永雛タフィー",
+    "readings": [
+      "えいすたふぃー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q136411545"
+  },
+  {
+    "name": "烏星",
+    "readings": [
+      "えぼし"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q122936827"
+  },
+  {
+    "name": "天鬼ぷるる",
+    "readings": [
+      "あまきぷるる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q122986966"
+  },
+  {
+    "name": "因幡はねる",
+    "readings": [
+      "いなばはねる"
+    ],
+    "affiliation": "ななしいんく",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q60988395"
+  },
+  {
+    "name": "NEUN",
+    "readings": [
+      "のいん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q137706730"
+  },
+  {
+    "name": "羽緒",
+    "readings": [
+      "はお"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q138011478"
+  },
+  {
+    "name": "水瀬 凪",
+    "readings": [
+      "みなせなぎ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q138028390"
+  },
+  {
+    "name": "ロボ子さん",
+    "readings": [
+      "ろぼこさん"
+    ],
+    "affiliation": "ホロライブ",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q85327516"
+  },
+  {
+    "name": "黒燿リラ",
+    "readings": [
+      "こくようりら"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q118095420"
+  },
+  {
+    "name": "猫屋敷美紅",
+    "readings": [
+      "ねこやしきみく",
+      "みくぽぽ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q137582767"
+  },
+  {
+    "name": "甘狼このみ",
+    "readings": [
+      "あまかみこのみ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q123415015"
+  },
+  {
+    "name": "儒烏風亭らでん",
+    "readings": [
+      "じゅうふうていらでん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q123417421"
+  },
+  {
+    "name": "焔魔るり",
+    "readings": [
+      "えんまるり"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q138030788"
+  },
+  {
+    "name": "瀬戸乃とと",
+    "readings": [
+      "せとのとと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q138030872"
+  },
+  {
+    "name": "IMI (VSinger)",
+    "readings": [
+      "いみ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q137969307"
+  },
+  {
+    "name": "深影",
+    "readings": [
+      "みかげ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q138020248"
+  },
+  {
+    "name": "ルンルン",
+    "readings": [
+      "るんちょま",
+      "るんるん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q126967186"
+  },
+  {
+    "name": "宙星ぱる",
+    "readings": [
+      "そらぽし"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q123766510"
+  },
+  {
+    "name": "でびでび・でびる",
+    "readings": [
+      "でびでびでびる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q84581405"
+  },
+  {
+    "name": "ヨノ",
+    "readings": [
+      "よの"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q137984663"
+  },
+  {
+    "name": "大空スバル",
+    "readings": [
+      "おおぞらすばる"
+    ],
+    "affiliation": "ホロライブ",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q95972569"
+  },
+  {
+    "name": "本間ひまわり",
+    "readings": [
+      "ほんまひまわり"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q96180272"
+  },
+  {
+    "name": "姫宮レーニャ",
+    "readings": [
+      "ひめみー",
+      "れにゃ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q137708198"
+  },
+  {
+    "name": "ころねぽち",
+    "readings": [
+      "ころねぽち"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q131414999"
+  },
+  {
+    "name": "湊あくあ",
+    "readings": [
+      "みなとあくあ"
+    ],
+    "affiliation": "ホロライブ",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q88874152"
+  },
+  {
+    "name": "敷嶋てとら",
+    "readings": [
+      "しきしまてとら"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q131582213"
+  },
+  {
+    "name": "江口シェロリ",
+    "readings": [
+      "しぇろり",
+      "ろりちゃん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q135470980"
+  },
+  {
+    "name": "LEWNE",
+    "readings": [
+      "れうちん",
+      "れうね"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q138005154"
+  },
+  {
+    "name": "沙花叉クロヱ",
+    "readings": [
+      "さかまたくろえ",
+      "さかまたくろゑ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q109743000"
+  },
+  {
+    "name": "ろぜっくぴん",
+    "readings": [
+      "ぴんちゃん",
+      "ろぜっくぴん",
+      "ろぜぴん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q135002469"
+  },
+  {
+    "name": "アキ・ローゼンタール",
+    "readings": [
+      "あきろぜ",
+      "あきろーぜんたーる"
+    ],
+    "affiliation": "ホロライブ",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q108068617"
+  },
+  {
+    "name": "セレス・ファウナ",
+    "readings": [
+      "せれすふぁうな"
+    ],
+    "affiliation": "Hololive English -議会-",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q108223443"
+  },
+  {
+    "name": "wouca",
+    "readings": [
+      "おうか",
+      "をうか"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q138020547"
+  },
+  {
+    "name": "赤見かるび",
+    "readings": [
+      "あかみかるび"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q121752394"
+  },
+  {
+    "name": "るみなす・すいーと",
+    "readings": [
+      "るみなすすいーと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q116236872"
+  },
+  {
+    "name": "トゥルシー・ナイトメア",
+    "readings": [
+      "とぅるしーないとめあ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q112229912"
+  },
+  {
+    "name": "しゅがーぐらいだー",
+    "readings": [
+      "しゅがぐら",
+      "しゅがーぐらいだー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q125150046"
+  },
+  {
+    "name": "Mocca Liebeskind",
+    "readings": [
+      "もつかりーべすきんど"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q112306808"
+  },
+  {
+    "name": "Fiwi",
+    "readings": [
+      "ふぃうぃ",
+      "ふぃじー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q112325066"
+  },
+  {
+    "name": "鏑木ろこ",
+    "readings": [
+      "ろってぃ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q114440510"
+  },
+  {
+    "name": "葉加瀬冬雪",
+    "readings": [
+      "らぼめん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q114398356"
+  },
+  {
+    "name": "花畑チャイカ",
+    "readings": [
+      "ちゃいかぶらいん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q114398354"
+  },
+  {
+    "name": "鈴谷アキ",
+    "readings": [
+      "すずやあき"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q114398358"
+  },
+  {
+    "name": "AZKi",
+    "readings": [
+      "あずき"
+    ],
+    "affiliation": "ホロライブ",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q116936972"
+  },
+  {
+    "name": "⾔のハ",
+    "readings": [
+      "ことのは"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q116236871"
+  },
+  {
+    "name": "死骸美 呪々",
+    "readings": [
+      "しがらみじゅじゅ"
+    ],
+    "affiliation": "ゾンヨンジュ",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q112265466"
+  },
+  {
+    "name": "ミュウ・ガルシア",
+    "readings": [
+      "みゅうがるしあ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q112751797"
+  },
+  {
+    "name": "漣とあ",
+    "readings": [
+      "さざなみとあ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q112751794"
+  },
+  {
+    "name": "日和ちひよ",
+    "readings": [
+      "ひよりちひよ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q112751796"
+  },
+  {
+    "name": "カシ・オトハ",
+    "readings": [
+      "かしおとは"
+    ],
+    "affiliation": "VERSEⁿ",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q116243324"
+  },
+  {
+    "name": "マル・ナナモナ",
+    "readings": [
+      "まるななもな"
+    ],
+    "affiliation": "VERSEⁿ",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q116243325"
+  },
+  {
+    "name": "アスター・アルカディア",
+    "readings": [
+      "あすたーあるかでぃあ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q113192118"
+  },
+  {
+    "name": "マリア・マリオネット",
+    "readings": [
+      "まりあまりおねっと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q113192061"
+  },
+  {
+    "name": "アイア・アマレ",
+    "readings": [
+      "あいああまれ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q113192224"
+  },
+  {
+    "name": "スカーレ・ヨナグニ",
+    "readings": [
+      "すかーれよなぐに"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q113192232"
+  },
+  {
+    "name": "レン・ゾット",
+    "readings": [
+      "れんぞっと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q113192230"
+  },
+  {
+    "name": "月白累",
+    "readings": [
+      "げっぱくるい"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q118095417"
+  },
+  {
+    "name": "セラフ・ダズルガーデン",
+    "readings": [
+      "せらふだずるがーでん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q113530793"
+  },
+  {
+    "name": "綿咲そら",
+    "readings": [
+      "そら",
+      "わたさきそら"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q117244632"
+  },
+  {
+    "name": "神童児丫子",
+    "readings": [
+      "しんどうじあこ"
+    ],
+    "affiliation": "VEE",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q112751795"
+  },
+  {
+    "name": "白粉いと",
+    "readings": [
+      "おしろいと"
+    ],
+    "affiliation": "VEE",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q112751792"
+  },
+  {
+    "name": "四葉公",
+    "readings": [
+      "しばこう"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q116786763"
+  },
+  {
+    "name": "バオ",
+    "readings": [
+      "ばお"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q113200891"
+  },
+  {
+    "name": "岡本健",
+    "readings": [
+      "おかもとたけし"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q113567581"
+  },
+  {
+    "name": "亞生うぱる",
+    "readings": [
+      "あにゅううぱる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q113852040"
+  },
+  {
+    "name": "糶",
+    "readings": [
+      "うりよね"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q116236870"
+  },
+  {
+    "name": "桜鳥ミーナ",
+    "readings": [
+      "おうどりみぃな"
+    ],
+    "affiliation": "VEE",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q112751791"
+  },
+  {
+    "name": "我部りえる",
+    "readings": [
+      "がぶりえる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q117379359"
+  },
+  {
+    "name": "安土桃",
+    "readings": [
+      "あづちもも"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q114398352"
+  },
+  {
+    "name": "レオス・ヴィンセント",
+    "readings": [
+      "れおすゔぃんせんと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q114440603"
+  },
+  {
+    "name": "天羽しろっぷ",
+    "readings": [
+      "あまう",
+      "あまうしろっぷ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q117264276"
+  },
+  {
+    "name": "渡会雲雀",
+    "readings": [
+      "わたらいひばり"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q114593247"
+  },
+  {
+    "name": "サークス パークス",
+    "readings": [
+      "さーくすぱーくす"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q116945511"
+  },
+  {
+    "name": "北白川かかぽ",
+    "readings": [
+      "きたしらかわかかぽ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q118213902"
+  },
+  {
+    "name": "偉雷アマエ",
+    "readings": [
+      "えらいあまえ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q118213900"
+  },
+  {
+    "name": "ゆりかわゆん",
+    "readings": [
+      "ゆりかわゆん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q118213901"
+  },
+  {
+    "name": "しらひこ",
+    "readings": [
+      "しらひこ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q112258489"
+  },
+  {
+    "name": "もちこまめ",
+    "readings": [
+      "もちこまめ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q113233418"
+  },
+  {
+    "name": "ドーラ",
+    "readings": [
+      "どーら"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q114398351"
+  },
+  {
+    "name": "はいぴんぐモナカ",
+    "readings": [
+      "はいぴんぐもなか"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q115038686"
+  },
+  {
+    "name": "ルイス・キャミー",
+    "readings": [
+      "るいすきゃみー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q115221265"
+  },
+  {
+    "name": "ドッピオ ドロップサイト",
+    "readings": [
+      "どっぴおどろっぷさいと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q115653505"
+  },
+  {
+    "name": "ヘックス へイワイヤー",
+    "readings": [
+      "へっくすへいわいやー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q115653563"
+  },
+  {
+    "name": "ヴェール ヴァーミリオン",
+    "readings": [
+      "ゔぇーるゔぁーみりおん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q115653674"
+  },
+  {
+    "name": "伊月ゆい",
+    "readings": [
+      "いつきゆい"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q3180209"
+  },
+  {
+    "name": "妃玖",
+    "readings": [
+      "きさき"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q138043024"
+  },
+  {
+    "name": "すーぱーそに子",
+    "readings": [
+      "そにこみ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q3504291"
+  },
+  {
+    "name": "木緒なち",
+    "readings": [
+      "きおなち"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q11519326"
+  },
+  {
+    "name": "すもも",
+    "readings": [
+      "すもも"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q30924627"
+  },
+  {
+    "name": "YuNi",
+    "readings": [
+      "ゆに"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q60459070"
+  },
+  {
+    "name": "田中ヒメ",
+    "readings": [
+      "たなかひめ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q61729883"
+  },
+  {
+    "name": "鈴木ヒナ",
+    "readings": [
+      "すずきひな"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q61729884"
+  },
+  {
+    "name": "AmaLee",
+    "readings": [
+      "あまんだりー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q51763739"
+  },
+  {
+    "name": "Ami Yamato",
+    "readings": [
+      "あみやまと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q58641635"
+  },
+  {
+    "name": "フニー",
+    "readings": [
+      "ふにー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q51884513"
+  },
+  {
+    "name": "桜木建二",
+    "readings": [
+      "さくらぎけんじ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q61964798"
+  },
+  {
+    "name": "ミライアカリ",
+    "readings": [
+      "みらいあかり"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q55534368"
+  },
+  {
+    "name": "バーチャルのじゃロリ狐娘Youtuberおじさん",
+    "readings": [
+      "ねこます",
+      "ねこみみますたー",
+      "のじゃおじ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q55535932"
+  },
+  {
+    "name": "ヴィーナス・アンジェリック",
+    "readings": [
+      "ゔぃーなすあんじぇりっく"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q16240088"
+  },
+  {
+    "name": "三上悠亜",
+    "readings": [
+      "みかみゆあ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q22128111"
+  },
+  {
+    "name": "燦鳥ノム",
+    "readings": [
+      "さんとりのむ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q64777402"
+  },
+  {
+    "name": "Pokimane",
+    "readings": [
+      "ぽきまね",
+      "ぽきめいん",
+      "ぽきめーん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q55956238"
+  },
+  {
+    "name": "KMNZ",
+    "readings": [
+      "けものず"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q60776006"
+  },
+  {
+    "name": "しぐれうい",
+    "readings": [
+      "ういびーむ",
+      "ういまま",
+      "しぐれうい"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q38277951"
+  },
+  {
+    "name": "いるはーと",
+    "readings": [
+      "いるはーと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q60986233"
+  },
+  {
+    "name": "響ゆい",
+    "readings": [
+      "ひびきゆい"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q60988247"
+  },
+  {
+    "name": "根本凪",
+    "readings": [
+      "ねもとなぎ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q27917547"
+  },
+  {
+    "name": "輝夜月",
+    "readings": [
+      "かぐやるな"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q56345992"
+  },
+  {
+    "name": "織田信姫",
+    "readings": [
+      "おだのぶひめ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q60478842"
+  },
+  {
+    "name": "天神子兎音",
+    "readings": [
+      "てんじんことね"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q56354435"
+  },
+  {
+    "name": "ピーナッツくん",
+    "readings": [
+      "ぴーなっつくん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q63413741"
+  },
+  {
+    "name": "響木アオ",
+    "readings": [
+      "ひびきあお"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q60455191"
+  },
+  {
+    "name": "もちひよこ",
+    "readings": [
+      "もちひよこ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q61730373"
+  },
+  {
+    "name": "道明寺ここあ",
+    "readings": [
+      "どうみょうじここあ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q60717500"
+  },
+  {
+    "name": "アズマリム",
+    "readings": [
+      "あずまりむ",
+      "あずりむ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q60745151"
+  },
+  {
+    "name": "佃煮のりお",
+    "readings": [
+      "つくだにのりお",
+      "のりおまま"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q15914656"
+  },
+  {
+    "name": "バーチャル美少女ねむ",
+    "readings": [
+      "ねむ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q60985803"
+  },
+  {
+    "name": "氷崎健人",
+    "readings": [
+      "ひさきけんと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q28682855"
+  },
+  {
+    "name": "富士葵",
+    "readings": [
+      "ふじあおい"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q60523884"
+  },
+  {
+    "name": "ヤン・ナリ",
+    "readings": [
+      "やんなり"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q107577574"
+  },
+  {
+    "name": "ななかぐら",
+    "readings": [
+      "かぐらなな",
+      "ななかぐら"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q106318282"
+  },
+  {
+    "name": "オリバー・エバンス",
+    "readings": [
+      "おりばーえばんす"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q107693719"
+  },
+  {
+    "name": "星川サラ",
+    "readings": [
+      "ほしかわさら"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q107298750"
+  },
+  {
+    "name": "八雲べに",
+    "readings": [
+      "やくもべに"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q107861283"
+  },
+  {
+    "name": "鈴鹿詩子",
+    "readings": [
+      "すずかうたこ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q106506054"
+  },
+  {
+    "name": "ゴールドシップ",
+    "readings": [
+      "ごるし",
+      "ごーるどしっぷ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q105998125"
+  },
+  {
+    "name": "百鬼あやめ",
+    "readings": [
+      "なきりあやめ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q106714182"
+  },
+  {
+    "name": "叶",
+    "readings": [
+      "かなえ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q107906931"
+  },
+  {
+    "name": "飯田ぽち。",
+    "readings": [
+      "ぽちまる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q104203532"
+  },
+  {
+    "name": "ワトソン・アメリア",
+    "readings": [
+      "あめりあわとそん",
+      "わとそんあめりあ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q107120130"
+  },
+  {
+    "name": "MaiR",
+    "readings": [
+      "めあ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q104699777"
+  },
+  {
+    "name": "神楽めあ",
+    "readings": [
+      "かぐらめあ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q104814985"
+  },
+  {
+    "name": "アイラニ・イオフィフティーン",
+    "readings": [
+      "あいらにいおふぃふてぃーん",
+      "いおふぃ"
+    ],
+    "affiliation": "ホロライブインドネシア",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q108085337"
+  },
+  {
+    "name": "フレン・E・ルスタリオ",
+    "readings": [
+      "おれん",
+      "おーく"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q104723014"
+  },
+  {
+    "name": "Love=charmulet",
+    "readings": [
+      "らぶちゃん",
+      "らぶちゃーみゅれっと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q108482251"
+  },
+  {
+    "name": "小鳥遊キアラ",
+    "readings": [
+      "たかなしきあら"
+    ],
+    "affiliation": "hololive English -Myth-",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q105772701"
+  },
+  {
+    "name": "ローレン・イロアス",
+    "readings": [
+      "ろーれんいろあす"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q107619696"
+  },
+  {
+    "name": "ピンキーポップヘップバーン",
+    "readings": [
+      "ぴんきーぽっぷへっぷばーん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q101825401"
+  },
+  {
+    "name": "夢乃リリス",
+    "readings": [
+      "ゆめのりりす"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q107693702"
+  },
+  {
+    "name": "吹雪縁",
+    "readings": [
+      "ふぶきえにし"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q107918400"
+  },
+  {
+    "name": "桃鈴ねね",
+    "readings": [
+      "ねねち"
+    ],
+    "affiliation": "ホロライブ5期生",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q106596588"
+  },
+  {
+    "name": "かしこまり",
+    "readings": [
+      "かしこまり"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q101204743"
+  },
+  {
+    "name": "氷置八茅",
+    "readings": [
+      "ひおきやち"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q108058249"
+  },
+  {
+    "name": "IRyS",
+    "readings": [
+      "あいりす"
+    ],
+    "affiliation": "Project: HOPE",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q108220511"
+  },
+  {
+    "name": "ぼっちぼろまる",
+    "readings": [
+      "ぼっちぼろまる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q106994211"
+  },
+  {
+    "name": "オーロ・クロニー",
+    "readings": [
+      "おーろくろにー"
+    ],
+    "affiliation": "Hololive English -議会-",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q108223449"
+  },
+  {
+    "name": "ハコス・ベールズ",
+    "readings": [
+      "はこすべーるず"
+    ],
+    "affiliation": "Hololive English -議会-",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q108223458"
+  },
+  {
+    "name": "イ・ロハ",
+    "readings": [
+      "いろは"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q107577910"
+  },
+  {
+    "name": "レイン・パターソン",
+    "readings": [
+      "れいんぱたーそん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q107619707"
+  },
+  {
+    "name": "中野公",
+    "readings": [
+      "なかののへや",
+      "なかのはむ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q107587850"
+  },
+  {
+    "name": "癒月ちょこ",
+    "readings": [
+      "ゆづきちょこ"
+    ],
+    "affiliation": "ホロライブ",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q106833841"
+  },
+  {
+    "name": "剣持刀也",
+    "readings": [
+      "けんもちとうや",
+      "ぶれいどもあなまん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q102810370"
+  },
+  {
+    "name": "春猿火",
+    "readings": [
+      "はるさるひ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q107295400"
+  },
+  {
+    "name": "ヰ世界情緒",
+    "readings": [
+      "いせかいじょうちょ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q107352036"
+  },
+  {
+    "name": "一伊那尓栖",
+    "readings": [
+      "にのまえいなにす"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q107380152"
+  },
+  {
+    "name": "轟京子",
+    "readings": [
+      "ろきぺ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q104970437"
+  },
+  {
+    "name": "ハナ マキア",
+    "readings": [
+      "はなまきあ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q105964781"
+  },
+  {
+    "name": "ロゼミ・ラブロック",
+    "readings": [
+      "ろぜみらぶろっく"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q108829249"
+  },
+  {
+    "name": "アーニャ・メルフィッサ",
+    "readings": [
+      "あーにゃめるふぃっさ"
+    ],
+    "affiliation": "ホロライブ",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q110904676"
+  },
+  {
+    "name": "みけねこ。",
+    "readings": [
+      "みけねこ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111159847"
+  },
+  {
+    "name": "三枝明那",
+    "readings": [
+      "あっきーな"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q110065617"
+  },
+  {
+    "name": "甲斐田晴",
+    "readings": [
+      "かいだはる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111011060"
+  },
+  {
+    "name": "カン・ユナ",
+    "readings": [
+      "かんゆな"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q108866571"
+  },
+  {
+    "name": "シマナガエナ",
+    "readings": [
+      "しまながえな"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q110234883"
+  },
+  {
+    "name": "クレイジー・オリー",
+    "readings": [
+      "くれいじーおりー"
+    ],
+    "affiliation": "ホロライブ",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q110914377"
+  },
+  {
+    "name": "なび",
+    "readings": [
+      "なび"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q110403047"
+  },
+  {
+    "name": "カガセ・ウノ",
+    "readings": [
+      "かがせうの"
+    ],
+    "affiliation": "VERSEⁿ",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q110470218"
+  },
+  {
+    "name": "渋谷ハル",
+    "readings": [
+      "しぶやはる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q109594612"
+  },
+  {
+    "name": "奈羅花",
+    "readings": [
+      "にゃらか"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q108620197"
+  },
+  {
+    "name": "加賀美ハヤト",
+    "readings": [
+      "かがみはやと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111010596"
+  },
+  {
+    "name": "山神カルタ",
+    "readings": [
+      "やま"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q110796025"
+  },
+  {
+    "name": "風真いろは",
+    "readings": [
+      "かざまいろは"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q109743004"
+  },
+  {
+    "name": "ラプラス・ダークネス",
+    "readings": [
+      "らぷらすだーくねす"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q109742973"
+  },
+  {
+    "name": "鷹嶺ルイ",
+    "readings": [
+      "たかねるい"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q109742985"
+  },
+  {
+    "name": "不破湊",
+    "readings": [
+      "ふわみなと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q110065608"
+  },
+  {
+    "name": "白雪巴",
+    "readings": [
+      "しらゆきともえ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q110973135"
+  },
+  {
+    "name": "ムーナ・ホシノヴァ",
+    "readings": [
+      "むーなほしのゔぁ"
+    ],
+    "affiliation": "ホロライブプロダクション",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q110934456"
+  },
+  {
+    "name": "Crunchyroll-Hime",
+    "readings": [
+      "くらんちろーるひめ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111139908"
+  },
+  {
+    "name": "ヴォックス・アクマ",
+    "readings": [
+      "ゔぉっくすあくま"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111044071"
+  },
+  {
+    "name": "夕刻ロベル",
+    "readings": [
+      "ゆうこくろべる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q109850789"
+  },
+  {
+    "name": "荒咬オウガ",
+    "readings": [
+      "あらがみおうが"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q109984232"
+  },
+  {
+    "name": "ニム・スペースキャット",
+    "readings": [
+      "およびそふぃあまがりーさんてぃじゃん",
+      "にむ",
+      "にむすぺーすきゃっと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q109564558"
+  },
+  {
+    "name": "Kson",
+    "readings": [
+      "けいそん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q109595867"
+  },
+  {
+    "name": "花咲みやび",
+    "readings": [
+      "はなさきみやび"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q109851756"
+  },
+  {
+    "name": "奏手イヅル",
+    "readings": [
+      "かなでいづる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q109852033"
+  },
+  {
+    "name": "ヒトシロ・イツキ",
+    "readings": [
+      "ひとしろいつき"
+    ],
+    "affiliation": "VERSEⁿ",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q110453854"
+  },
+  {
+    "name": "アルバ・セラ",
+    "readings": [
+      "あるばせら"
+    ],
+    "affiliation": "VERSEⁿ",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q110454231"
+  },
+  {
+    "name": "イ・オン",
+    "readings": [
+      "いおん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q109298655"
+  },
+  {
+    "name": "イル＝フローラ",
+    "readings": [
+      "いるふろーら"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q109595493"
+  },
+  {
+    "name": "おかつゆうす",
+    "readings": [
+      "おかつゆうす"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q109599312"
+  },
+  {
+    "name": "せんのいのり",
+    "readings": [
+      "せんのいのり"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q109602775"
+  },
+  {
+    "name": "影山シエン",
+    "readings": [
+      "かげやましえん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q109886782"
+  },
+  {
+    "name": "ソ・ナギ",
+    "readings": [
+      "そなぎ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q110625149"
+  },
+  {
+    "name": "グウェル・オス・ガール",
+    "readings": [
+      "ぐうぇるおすがーる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q110810792"
+  },
+  {
+    "name": "ペトラ・グリン",
+    "readings": [
+      "ぺとらぐりん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q110817030"
+  },
+  {
+    "name": "アイネ",
+    "readings": [
+      "あいね"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q110844945"
+  },
+  {
+    "name": "律可",
+    "readings": [
+      "りっか"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q109860136"
+  },
+  {
+    "name": "アルランディス",
+    "readings": [
+      "あらん",
+      "あるらんでぃす"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q109852454"
+  },
+  {
+    "name": "アステル・レダ",
+    "readings": [
+      "あすてるれだ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q109870754"
+  },
+  {
+    "name": "岸堂天真",
+    "readings": [
+      "きしどうてんま"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q109877846"
+  },
+  {
+    "name": "▽▲TRiNITY▲▽",
+    "readings": [
+      "たかみやりおん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q65293889"
+  },
+  {
+    "name": "リゼ・ヘルエスタ",
+    "readings": [
+      "りぜへるえすた"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q85874553"
+  },
+  {
+    "name": "アンジュ・カトリーナ",
+    "readings": [
+      "あんじゅかとりーな",
+      "あんちゃん",
+      "ないとばたふらい"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q85870114"
+  },
+  {
+    "name": "笹木咲",
+    "readings": [
+      "ささきさく"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q94332432"
+  },
+  {
+    "name": "赤井はあと",
+    "readings": [
+      "あかいはあと",
+      "はあちゃま"
+    ],
+    "affiliation": "ホロライブ1期生",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q92181505"
+  },
+  {
+    "name": "潤羽るしあ",
+    "readings": [
+      "うるはるしあ"
+    ],
+    "affiliation": "ホロライブ3期生",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q90815761"
+  },
+  {
+    "name": "緑仙",
+    "readings": [
+      "りゅーしぇん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q95483927"
+  },
+  {
+    "name": "西沢5㍉",
+    "readings": [
+      "ものふぃーゆ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q97674247"
+  },
+  {
+    "name": "夢追翔",
+    "readings": [
+      "ゆめおいかける"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q91260093"
+  },
+  {
+    "name": "さくらみこ",
+    "readings": [
+      "さくらみこ",
+      "みこち"
+    ],
+    "affiliation": "ホロライブ",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q85327517"
+  },
+  {
+    "name": "ゆるりめぐ",
+    "readings": [
+      "ゆるりめぐ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q98101131"
+  },
+  {
+    "name": "卯月コウ",
+    "readings": [
+      "うづきこう"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q65250149"
+  },
+  {
+    "name": "音霊魂子",
+    "readings": [
+      "おとだまたまこ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q97940427"
+  },
+  {
+    "name": "鈴木勝",
+    "readings": [
+      "すずきまさる",
+      "まーくん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q84408056"
+  },
+  {
+    "name": "一翔剣",
+    "readings": [
+      "いっしょうけん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q86735702"
+  },
+  {
+    "name": "御伽原江良",
+    "readings": [
+      "おとぎばらえら",
+      "ぎばら"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q83250295"
+  },
+  {
+    "name": "ヤミクモケリン",
+    "readings": [
+      "けりん",
+      "やみくもけりん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q84581412"
+  },
+  {
+    "name": "新科娘",
+    "readings": [
+      "しんくぇむすめ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q67920461"
+  },
+  {
+    "name": "える",
+    "readings": [
+      "える",
+      "すのーほわいとぱらだいすえるさんとふろうわすれなぴゅあぷりんせすりーぶるらぶはいでるんどこどこやったぜゔぁるきゅりあぱっしょんあーるゔのえるちゃこぼしえるありあふろーじあめいどいんぶるーむえる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q96622457"
+  },
+  {
+    "name": "さえきやひろ",
+    "readings": [
+      "さえきやひろ",
+      "やひろちゃん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q69402840"
+  },
+  {
+    "name": "兎鞠まり",
+    "readings": [
+      "とまりまり"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q92238349"
+  },
+  {
+    "name": "夏色まつり",
+    "readings": [
+      "なついろまつり"
+    ],
+    "affiliation": "ホロライブ",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q88387033"
+  },
+  {
+    "name": "rurudo",
+    "readings": [
+      "るるど"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q90885203"
+  },
+  {
+    "name": "兎田ぺこら",
+    "readings": [
+      "うさだぺこら"
+    ],
+    "affiliation": "ホロライブ",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q89771228"
+  },
+  {
+    "name": "鳩羽つぐ",
+    "readings": [
+      "はとばつぐ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q84581401"
+  },
+  {
+    "name": "鈴原るる",
+    "readings": [
+      "すずはらるる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q96619781"
+  },
+  {
+    "name": "甲賀流忍者!ぽんぽこ",
+    "readings": [
+      "こうがりゅうにんじゃぽんぽこ",
+      "ぽんぽこ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q65274030"
+  },
+  {
+    "name": "まこと",
+    "readings": [
+      "まこと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q69635021"
+  },
+  {
+    "name": "天羽よつは",
+    "readings": [
+      "あまはねよつは"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q65259400"
+  },
+  {
+    "name": "静凛",
+    "readings": [
+      "しずかりん",
+      "しずりん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q66386577"
+  },
+  {
+    "name": "射貫まとい",
+    "readings": [
+      "いぬきまとい"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q65262847"
+  },
+  {
+    "name": "童田明治",
+    "readings": [
+      "わらべだめいじー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q96402386"
+  },
+  {
+    "name": "プロジェクト メロディ",
+    "readings": [
+      "ぷろじぇくとめろでぃ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q85362803"
+  },
+  {
+    "name": "バーチャルおばあちゃん",
+    "readings": [
+      "ばーちゃるおばあちゃん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q65095765"
+  },
+  {
+    "name": "あそび りん",
+    "readings": [
+      "あそびりん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q69352814"
+  },
+  {
+    "name": "星街すいせい",
+    "readings": [
+      "ほしまちすいせい"
+    ],
+    "affiliation": "ホロライブ",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q86731266"
+  },
+  {
+    "name": "GALDE'rLa",
+    "readings": [
+      "がるでるら",
+      "よしななみ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q65107571"
+  },
+  {
+    "name": "物述有栖",
+    "readings": [
+      "もののべありす"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q93879940"
+  },
+  {
+    "name": "黒瀬浩介",
+    "readings": [
+      "くろせこうすけ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q66565721"
+  },
+  {
+    "name": "EMMA HAZY MINAMI",
+    "readings": [
+      "えま",
+      "みなみえま"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q65095748"
+  },
+  {
+    "name": "斗和キセキ",
+    "readings": [
+      "とわきせき"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q77964835"
+  },
+  {
+    "name": "椎名唯華",
+    "readings": [
+      "しぃしぃ",
+      "しいなゆいか"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111975883"
+  },
+  {
+    "name": "天城てん",
+    "readings": [
+      "あまぎてん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111980106"
+  },
+  {
+    "name": "海妹四葉",
+    "readings": [
+      "よつはぴ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111327133"
+  },
+  {
+    "name": "アクシア・クローネ",
+    "readings": [
+      "あくしあくろーね"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q118793231"
+  },
+  {
+    "name": "ミリー・パフェ",
+    "readings": [
+      "ふぁみりー",
+      "みりーぱふぇ"
+    ],
+    "affiliation": "Ethyria",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111986527"
+  },
+  {
+    "name": "アルス・アルマル",
+    "readings": [
+      "あるすあるまる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111461864"
+  },
+  {
+    "name": "シスター・クレア",
+    "readings": [
+      "しすたーくれあ",
+      "たぬさん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111467566"
+  },
+  {
+    "name": "カエラ・コヴァルスキア",
+    "readings": [
+      "かえらこゔぁるすきあ"
+    ],
+    "affiliation": "ホロライブ",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111359644"
+  },
+  {
+    "name": "夜見れな",
+    "readings": [
+      "よるみれな"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111949828"
+  },
+  {
+    "name": "アルバーン・ノックス",
+    "readings": [
+      "あるばーんのっくす"
+    ],
+    "affiliation": "Noctyx",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111986984"
+  },
+  {
+    "name": "ファルガー・オーヴィド",
+    "readings": [
+      "ふぁるがーおーゔぃど"
+    ],
+    "affiliation": "Noctyx",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111987081"
+  },
+  {
+    "name": "サニー・ブリスコー",
+    "readings": [
+      "さにーぶりすこー"
+    ],
+    "affiliation": "Noctyx",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111987163"
+  },
+  {
+    "name": "夜十神封魔",
+    "readings": [
+      "やとがみふうま"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111590467"
+  },
+  {
+    "name": "水無世燐央",
+    "readings": [
+      "みなせりお"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111590470"
+  },
+  {
+    "name": "羽継烏有",
+    "readings": [
+      "うつぎうゆう"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111590468"
+  },
+  {
+    "name": "緋崎ガンマ",
+    "readings": [
+      "ひざきがんま"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111590469"
+  },
+  {
+    "name": "アーマイゼ博士",
+    "readings": [
+      "あーまいぜはかせ"
+    ],
+    "affiliation": "家庭用ロボットアイゼン",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q112255869"
+  },
+  {
+    "name": "アイアンマウス",
+    "readings": [
+      "あいあんまうす"
+    ],
+    "affiliation": "list of most-subscribed Twitch channels",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111677965"
+  },
+  {
+    "name": "冥鳴ひまり",
+    "readings": [
+      "めいめいひまり"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111599018"
+  },
+  {
+    "name": "大代真白",
+    "readings": [
+      "おおしろましろ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111399218"
+  },
+  {
+    "name": "弦月藤士郎",
+    "readings": [
+      "げんづきとうじろう"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111461867"
+  },
+  {
+    "name": "奇屋敷ゾンゾン",
+    "readings": [
+      "きやしきぞんぞん"
+    ],
+    "affiliation": "ゾンヨンジュ",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q112191272"
+  },
+  {
+    "name": "ましろ",
+    "readings": [
+      "ましろ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111294952"
+  },
+  {
+    "name": "ルカ・カネシロ",
+    "readings": [
+      "るかかねしろ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111295191"
+  },
+  {
+    "name": "アイク・イーヴランド",
+    "readings": [
+      "あいくいーゔらんど"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111304608"
+  },
+  {
+    "name": "ベスティア・ゼータ",
+    "readings": [
+      "べすてぃあぜーた"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111359676"
+  },
+  {
+    "name": "こぼ・かなえる",
+    "readings": [
+      "こぼかなえる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111359713"
+  },
+  {
+    "name": "おめがリオ",
+    "readings": [
+      "おめがりお"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111459645"
+  },
+  {
+    "name": "周央サンゴ",
+    "readings": [
+      "すおうさんご",
+      "んご",
+      "んごちゃん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111523019"
+  },
+  {
+    "name": "朝ノ瑠璃",
+    "readings": [
+      "あさのるり"
+    ],
+    "affiliation": "朝ノ姉妹ぷろじぇくと",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111445823"
+  },
+  {
+    "name": "フミ",
+    "readings": [
+      "ふみ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111294950"
+  },
+  {
+    "name": "おめがレイ",
+    "readings": [
+      "おめがれい"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111616622"
+  },
+  {
+    "name": "天宮こころ",
+    "readings": [
+      "あまみやこころ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111949826"
+  },
+  {
+    "name": "魔使マオ",
+    "readings": [
+      "まつかいまお"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111949830"
+  },
+  {
+    "name": "雛星あいる",
+    "readings": [
+      "ひなほしあいる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q112229963"
+  },
+  {
+    "name": "ミカ・メラティカ",
+    "readings": [
+      "みかめらてぃか"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111731231"
+  },
+  {
+    "name": "セフィナ",
+    "readings": [
+      "せふぃな"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111398909"
+  },
+  {
+    "name": "レザ・アファンルナ",
+    "readings": [
+      "れざあふぁんるな"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111398938"
+  },
+  {
+    "name": "フィンダーおじさん",
+    "readings": [
+      "ふぃんだーおじさん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q112028060"
+  },
+  {
+    "name": "おうまゆう",
+    "readings": [
+      "おうまゆう",
+      "おまゆう"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111971536"
+  },
+  {
+    "name": "ぽむ れいんぱふ",
+    "readings": [
+      "ぽむれいんぱふ"
+    ],
+    "affiliation": "LazuLight",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111986176"
+  },
+  {
+    "name": "エリーラ ペンドラ",
+    "readings": [
+      "えりーらぺんどら"
+    ],
+    "affiliation": "LazuLight",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111986450"
+  },
+  {
+    "name": "エナー・アールウェット",
+    "readings": [
+      "えなーあーるうぇっと"
+    ],
+    "affiliation": "Ethyria",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111986646"
+  },
+  {
+    "name": "壱百満天原サロメ",
+    "readings": [
+      "ひゃくまんてんばらさろめ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q112132475"
+  },
+  {
+    "name": "シェリン・バーガンディ",
+    "readings": [
+      "しぇりんばーがんでぃ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q120734048"
+  },
+  {
+    "name": "アイゼン",
+    "readings": [
+      "あいぜん"
+    ],
+    "affiliation": "家庭用ロボットアイゼン",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q112255178"
+  },
+  {
+    "name": "アルターエゴ",
+    "readings": [
+      "あるたーえご"
+    ],
+    "affiliation": "家庭用ロボットアイゼン",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q112256166"
+  },
+  {
+    "name": "星導ショウ",
+    "readings": [
+      "たこ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q134719646"
+  },
+  {
+    "name": "ポポナ",
+    "readings": [
+      "ぽぽな"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q130732702"
+  },
+  {
+    "name": "カスカ",
+    "readings": [
+      "かすか"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q137668495"
+  },
+  {
+    "name": "石神のぞみ",
+    "readings": [
+      "のんちゃん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q137324414"
+  },
+  {
+    "name": "ラオーラ・パンテーラ",
+    "readings": [
+      "らおーらぱんてーら"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q135105832"
+  },
+  {
+    "name": "シオリ・ノヴェラ",
+    "readings": [
+      "しおりのゔぇら"
+    ],
+    "affiliation": "ホロライブEnglish",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q135105407"
+  },
+  {
+    "name": "セシリア・イマーグリーン",
+    "readings": [
+      "せしりあいまーぐりーん"
+    ],
+    "affiliation": "ホロライブEnglish",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q135105622"
+  },
+  {
+    "name": "ジジ・ムリン",
+    "readings": [
+      "じじむりん"
+    ],
+    "affiliation": "ホロライブEnglish",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q135105676"
+  },
+  {
+    "name": "水宮枢",
+    "readings": [
+      "すうりす"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q135106173"
+  },
+  {
+    "name": "綺々羅々ヴィヴィ",
+    "readings": [
+      "ききららう゛ぃう゛ぃ",
+      "ききららびび",
+      "ききららゔぃゔぃ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q135106219"
+  },
+  {
+    "name": "ソフィア・ヴァレンタイン",
+    "readings": [
+      "そふぃ",
+      "そふぃあゔぁれんたいん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q136472526"
+  },
+  {
+    "name": "みずき",
+    "readings": [
+      "みずき"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q135224361"
+  },
+  {
+    "name": "アオイ・ヒナモリ",
+    "readings": [
+      "あおい",
+      "あおいひなもり"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q130443439"
+  },
+  {
+    "name": "ヨミ",
+    "readings": [
+      "よみ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q137668390"
+  },
+  {
+    "name": "あかるん",
+    "readings": [
+      "あかるん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q135678250"
+  },
+  {
+    "name": "ヴェザリウス・バンデージ",
+    "readings": [
+      "ゔぇざりうすばんでーじ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q137375179"
+  },
+  {
+    "name": "HACHI (VSinger)",
+    "readings": [
+      "はち"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q134538774"
+  },
+  {
+    "name": "chibidoki",
+    "readings": [
+      "ちびどき"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q137356519"
+  },
+  {
+    "name": "パヴォリア・レイネ",
+    "readings": [
+      "ぱゔぉりあれいね"
+    ],
+    "affiliation": "ホロライブ",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q130381120"
+  },
+  {
+    "name": "CULUA",
+    "readings": [
+      "かるあ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q137706695"
+  },
+  {
+    "name": "海月雲ろあ",
+    "readings": [
+      "くらげうろあ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q135432522"
+  },
+  {
+    "name": "なるり",
+    "readings": [
+      "なるり"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q131577328"
+  },
+  {
+    "name": "姫乃えこぴ",
+    "readings": [
+      "ひめのえこぴ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q131582231"
+  },
+  {
+    "name": "MEDA",
+    "readings": [
+      "めだ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q137658830"
+  },
+  {
+    "name": "Sameko Saba",
+    "readings": [
+      "さめこさば",
+      "まっくざふぃっしゅがーる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q135113472"
+  },
+  {
+    "name": "たここ",
+    "readings": [
+      "たここ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q122962729"
+  },
+  {
+    "name": "ヘスティアハピネス",
+    "readings": [
+      "へすてぃあはぴねす"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q123142444"
+  },
+  {
+    "name": "ミラン・ケストレル",
+    "readings": [
+      "みらんけすとれる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q123500286"
+  },
+  {
+    "name": "モココ・アビスガード",
+    "readings": [
+      "もここあびすがーど"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q124353047"
+  },
+  {
+    "name": "フワワ・アビスガード",
+    "readings": [
+      "ふわわあびすがーど"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q124353054"
+  },
+  {
+    "name": "シャイリリー",
+    "readings": [
+      "しゃいりりー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q124711962"
+  },
+  {
+    "name": "えいすけ",
+    "readings": [
+      "えいすけ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q124878898"
+  },
+  {
+    "name": "ヴェイベ",
+    "readings": [
+      "ゔぇいべ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q125217297"
+  },
+  {
+    "name": "エトラ",
+    "readings": [
+      "えとら"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q129177538"
+  },
+  {
+    "name": "タルレミ・エラ",
+    "readings": [
+      "たるれみえら"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q130214733"
+  },
+  {
+    "name": "エリザベス・ローズ・ブラッドフレイム",
+    "readings": [
+      "えりざべすろーずぶらっどふれいむ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q130278560"
+  },
+  {
+    "name": "リン・ペンローズ",
+    "readings": [
+      "りんぺんろーず"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q130296077"
+  },
+  {
+    "name": "楠本まどか",
+    "readings": [
+      "くすもとまどか"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q122333392"
+  },
+  {
+    "name": "緋墨",
+    "readings": [
+      "ひすみ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q123419834"
+  },
+  {
+    "name": "芽々守あん",
+    "readings": [
+      "めめもりあん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q123419835"
+  },
+  {
+    "name": "ネリッサ・レイヴンクロフト",
+    "readings": [
+      "ねり",
+      "ねりっされいゔんくろふと",
+      "りっさ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q130279084"
+  },
+  {
+    "name": "へにゃ・ざ・じーにあす",
+    "readings": [
+      "へにゃざじーにあす"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q123036835"
+  },
+  {
+    "name": "たゆゆ",
+    "readings": [
+      "たゆゆ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q130233250"
+  },
+  {
+    "name": "ゼルク",
+    "readings": [
+      "ぜるく"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q123243941"
+  },
+  {
+    "name": "アマル",
+    "readings": [
+      "あまる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q123280670"
+  },
+  {
+    "name": "甘乃あもこ",
+    "readings": [
+      "あまのあもこ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q124330617"
+  },
+  {
+    "name": "久遠たま",
+    "readings": [
+      "おたま",
+      "たまちゃん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q124049534"
+  },
+  {
+    "name": "猫麦とろろ",
+    "readings": [
+      "ねこむぎとろろ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q123999645"
+  },
+  {
+    "name": "桃雛なの",
+    "readings": [
+      "ももひななの"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q123267919"
+  },
+  {
+    "name": "大山チロル",
+    "readings": [
+      "ひつじまる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q125755634"
+  },
+  {
+    "name": "jamsanpoid",
+    "readings": [
+      "じゃむさんっぽいど"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q124055220"
+  },
+  {
+    "name": "弐十",
+    "readings": [
+      "にと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q123568524"
+  },
+  {
+    "name": "聖女れりあ",
+    "readings": [
+      "ひじりめれりあ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q125018468"
+  },
+  {
+    "name": "ぷわぷわぽぷら",
+    "readings": [
+      "ぷわぷわぽぷら"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q124399110"
+  },
+  {
+    "name": "栞葉るり",
+    "readings": [
+      "るりどっぐ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q123500285"
+  },
+  {
+    "name": "立伝都々",
+    "readings": [
+      "たちつてとと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q123500284"
+  },
+  {
+    "name": "アーリオ・オーリオ・エ・ペペロンチーノ",
+    "readings": [
+      "あーりおおーりおえぺぺろんちーの",
+      "ぺぺ",
+      "ぺぺち"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q125017451"
+  },
+  {
+    "name": "あやみ",
+    "readings": [
+      "あやみ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q124480033"
+  },
+  {
+    "name": "はっか",
+    "readings": [
+      "はっか"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q124049541"
+  },
+  {
+    "name": "叢雲カゲツ",
+    "readings": [
+      "かげつきゅん",
+      "むらくもかげつ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140461308"
+  },
+  {
+    "name": "早乙女ベリー",
+    "readings": [
+      "さおとめべりー",
+      "べりち"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140462086"
+  },
+  {
+    "name": "渚トラウト",
+    "readings": [
+      "なぎさとらうと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140462136"
+  },
+  {
+    "name": "皇れお",
+    "readings": [
+      "すめらぎれお",
+      "れおこるか"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140462421"
+  },
+  {
+    "name": "塚原大地",
+    "readings": [
+      "つかず",
+      "つかはらだいち"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140502466"
+  },
+  {
+    "name": "Rei7",
+    "readings": [
+      "れいな"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140500410"
+  },
+  {
+    "name": "篠宮ゆの",
+    "readings": [
+      "しのみや",
+      "しのみーる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140494113"
+  },
+  {
+    "name": "長尾景",
+    "readings": [
+      "おなが",
+      "ながおけい"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140809969"
+  },
+  {
+    "name": "うきょち",
+    "readings": [
+      "うきょち"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q141119414"
+  },
+  {
+    "name": "にしのん",
+    "readings": [
+      "にしのん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q141128029"
+  },
+  {
+    "name": "くるる",
+    "readings": [
+      "くるる",
+      "くるるてんてー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q141119989"
+  },
+  {
+    "name": "飛良ひかり",
+    "readings": [
+      "ひらひかり"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140462194"
+  },
+  {
+    "name": "城瀬いすみ",
+    "readings": [
+      "いすみゃ",
+      "くらすみゃいと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140462511"
+  },
+  {
+    "name": "小森めと",
+    "readings": [
+      "めっさん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140499525"
+  },
+  {
+    "name": "千凛あゆむ",
+    "readings": [
+      "あゆめいと",
+      "あゆゆ",
+      "せんりあゆむ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140514620"
+  },
+  {
+    "name": "レヨン",
+    "readings": [
+      "れよん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140514847"
+  },
+  {
+    "name": "九里詠太",
+    "readings": [
+      "かくにーず",
+      "くりえいた"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140502499"
+  },
+  {
+    "name": "ぷりん・らら・もーど",
+    "readings": [
+      "ぷりん",
+      "ぷりんちゃん",
+      "ぷりんららもーど",
+      "らら"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140811781"
+  },
+  {
+    "name": "ぽめろ・ぱんち",
+    "readings": [
+      "ぱんち",
+      "ぽめろ",
+      "ぽめろちゃん",
+      "ぽめろぱんち"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140811905"
+  },
+  {
+    "name": "男虎",
+    "readings": [
+      "おのとら",
+      "おのへっず"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140514556"
+  },
+  {
+    "name": "小々波いるか",
+    "readings": [
+      "ここなみいるか",
+      "ここなみん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140516234"
+  },
+  {
+    "name": "黒井しば",
+    "readings": [
+      "くろいしば"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q141112704"
+  },
+  {
+    "name": "カヲル",
+    "readings": [
+      "かをる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q138686086"
+  },
+  {
+    "name": "渚沢シチ",
+    "readings": [
+      "なぎさわしち"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q138313867"
+  },
+  {
+    "name": "伊波ライ",
+    "readings": [
+      "いなみそ",
+      "いなみらい"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q138411709"
+  },
+  {
+    "name": "ロサリン",
+    "readings": [
+      "ろさりん"
+    ],
+    "affiliation": "ホロライブプロダクション",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q137971461"
+  },
+  {
+    "name": "小柳ロウ",
+    "readings": [
+      "こやなぎろう",
+      "ろうるふ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140459817"
+  },
+  {
+    "name": "緋八マナ",
+    "readings": [
+      "ひばちまな"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140459977"
+  },
+  {
+    "name": "赤城ウェン",
+    "readings": [
+      "あかぎうぇん",
+      "ぎゃうちゃんず"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140461258"
+  },
+  {
+    "name": "DELUTAYA Δ.",
+    "readings": [
+      "でるたや"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q139244738"
+  },
+  {
+    "name": "ナ・セラ",
+    "readings": [
+      "けせら",
+      "なせら"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140391780"
+  },
+  {
+    "name": "小清水透",
+    "readings": [
+      "しーちゃん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140366779"
+  },
+  {
+    "name": "ミン・スゥーハ",
+    "readings": [
+      "すは",
+      "みんすぅーは"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140389989"
+  },
+  {
+    "name": "雲母たまこ",
+    "readings": [
+      "たまこ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140438999"
+  },
+  {
+    "name": "珠乃井ナナ",
+    "readings": [
+      "たまのいなな",
+      "ななたま",
+      "なーさん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q138140873"
+  },
+  {
+    "name": "CONA (VSinger)",
+    "readings": [
+      "こな"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q137983200"
+  },
+  {
+    "name": "Mint Fantôme",
+    "readings": [
+      "みんとふぁんとーむ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q139564156"
+  },
+  {
+    "name": "榊ネス",
+    "readings": [
+      "ねっしー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140366258"
+  },
+  {
+    "name": "七瀬すず菜",
+    "readings": [
+      "すずふぁーむ",
+      "ななせすずな"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140396536"
+  },
+  {
+    "name": "五木左京",
+    "readings": [
+      "いつきさきょう"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140396658"
+  },
+  {
+    "name": "ホム・レス",
+    "readings": [
+      "ほむれす"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q138515721"
+  },
+  {
+    "name": "ヘアピンまみれ",
+    "readings": [
+      "へあぴんまみれ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q139782348"
+  },
+  {
+    "name": "蝸堂みかる",
+    "readings": [
+      "かどうみかる",
+      "みかるん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q138642408"
+  },
+  {
+    "name": "クララ チャームウッド",
+    "readings": [
+      "くららちゃーむうっど"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140366916"
+  },
+  {
+    "name": "アティア",
+    "readings": [
+      "あてぃあ"
+    ],
+    "affiliation": "ホロライブプロダクション",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q137971407"
+  },
+  {
+    "name": "純音緒まる",
+    "readings": [
+      "おまる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q138515625"
+  },
+  {
+    "name": "梢桃音",
+    "readings": [
+      "ぽやぽやのたぬき",
+      "もねごん",
+      "もねち"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140075239"
+  },
+  {
+    "name": "夜霧",
+    "readings": [
+      "よぎり"
+    ],
+    "affiliation": "ホロライブプロダクション",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q137971255"
+  },
+  {
+    "name": "黒桃影",
+    "readings": [
+      "すぺーどえこー"
+    ],
+    "affiliation": "ホロライブプロダクション",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q137971271"
+  },
+  {
+    "name": "ドリス",
+    "readings": [
+      "どりす"
+    ],
+    "affiliation": "ホロライブプロダクション",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q137971341"
+  },
+  {
+    "name": "十河ののは",
+    "readings": [
+      "とがわののは"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140490832"
+  },
+  {
+    "name": "北見遊征",
+    "readings": [
+      "きたみん",
+      "くーるがい"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140366268"
+  },
+  {
+    "name": "獅子堂あかり",
+    "readings": [
+      "あかぴゃ",
+      "うおうお"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140371129"
+  },
+  {
+    "name": "希薇婭",
+    "readings": [
+      "しびあ"
+    ],
+    "affiliation": "ホロライブプロダクション",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q137971182"
+  },
+  {
+    "name": "司賀りこ",
+    "readings": [
+      "しがりこ",
+      "りこりすと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140438102"
+  },
+  {
+    "name": "綺沙良",
+    "readings": [
+      "きーちゃん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140438247"
+  },
+  {
+    "name": "蛇宵ティア",
+    "readings": [
+      "へびよいてぃあ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q139782429"
+  },
+  {
+    "name": "夜牛詩乃",
+    "readings": [
+      "おいしーの",
+      "しの",
+      "しののん",
+      "やぎゅうしの"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140492974"
+  },
+  {
+    "name": "水面まどか",
+    "readings": [
+      "みなもまどか"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q138141696"
+  },
+  {
+    "name": "五十嵐梨花",
+    "readings": [
+      "りかしぃ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q138411647"
+  },
+  {
+    "name": "酒寄颯馬",
+    "readings": [
+      "さかよりそうま",
+      "そま"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140436144"
+  },
+  {
+    "name": "しずく",
+    "readings": [
+      "しずく"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q117713196"
+  },
+  {
+    "name": "甘葛すもあ",
+    "readings": [
+      "あまずらすもあ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q138502919"
+  },
+  {
+    "name": "常勝無敗ぐぬぬ",
+    "readings": [
+      "まけなしぐぬぬ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q138503006"
+  },
+  {
+    "name": "荻谷まりあ",
+    "readings": [
+      "おぎやまりあ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q138503019"
+  },
+  {
+    "name": "泡喰はわこ",
+    "readings": [
+      "あわばみはわこ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q138503059"
+  },
+  {
+    "name": "鮫升コモリ",
+    "readings": [
+      "みずちまこもり"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q141190820"
+  },
+  {
+    "name": "音ノ瀬らこ",
+    "readings": [
+      "らこち",
+      "らこちゃん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q141221476"
+  },
+  {
+    "name": "天籠りのん",
+    "readings": [
+      "あまこもりのん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q121367027"
+  },
+  {
+    "name": "来栖夏芽",
+    "readings": [
+      "くるすなつめ",
+      "なちゅめ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111284838"
+  },
+  {
+    "name": "オーラ",
+    "readings": [
+      "おーら"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q121661786"
+  },
+  {
+    "name": "宝鐘マリン",
+    "readings": [
+      "まりりん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q99470768"
+  },
+  {
+    "name": "ばあちゃる",
+    "readings": [
+      "うびば",
+      "ばあちゃる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q100720517"
+  },
+  {
+    "name": "Mikage",
+    "readings": [
+      "みかげ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q140588826"
+  },
+  {
+    "name": "あくび・でもんすぺーど",
+    "readings": [
+      "あくびでもんすぺーど"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q141192255"
+  },
+  {
+    "name": "ゆらぎゆら",
+    "readings": [
+      "ゆらぎゆら"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q141222034"
+  },
+  {
+    "name": "Diα",
+    "readings": [
+      "でぃあ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q138043473"
+  },
+  {
+    "name": "神永タイガ",
+    "readings": [
+      "かみながたいが",
+      "たいが"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q141214408"
+  },
+  {
+    "name": "先斗寧",
+    "readings": [
+      "ぽんちゃん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111289087"
+  },
+  {
+    "name": "Unnämed",
+    "readings": [
+      "あんねーむど"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q137888204"
+  },
+  {
+    "name": "がうる・ぐら",
+    "readings": [
+      "がうるぐら"
+    ],
+    "affiliation": "hololive English -Myth-",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q100556077"
+  },
+  {
+    "name": "シスカ・レオンタイン",
+    "readings": [
+      "しすかれおんたいん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q111232511"
+  },
+  {
+    "name": "山田龍一郎",
+    "readings": [
+      "やまだりゅういちろう"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q141214536"
+  },
+  {
+    "name": "Ameyouri",
+    "readings": [
+      "あめゆーり"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q141034376"
+  },
+  {
+    "name": "ゔぃちゃん",
+    "readings": [
+      "ゔぃちゃん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q118233908"
+  },
+  {
+    "name": "コニカ・ローレル",
+    "readings": [
+      "こにかろーれる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q118315949"
+  },
+  {
+    "name": "Mecori",
+    "readings": [
+      "めこり"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "http://www.wikidata.org/entity/Q138516653"
   }
 ]
