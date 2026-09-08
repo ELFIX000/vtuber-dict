@@ -1,0 +1,72 @@
+[
+  {
+    "name": "キズナアイ",
+    "readings": ["きずなあい"],
+    "affiliation": "Kizuna AI Inc.",
+    "category": "人名",
+    "source": "https://www.wikidata.org/wiki/Q30064219"
+  },
+  {
+    "name": "電脳少女シロ",
+    "readings": ["でんのうしょうじょしろ", "しろ"],
+    "affiliation": ".LIVE",
+    "category": "人名",
+    "source": "https://www.wikidata.org/wiki/Q48762512"
+  },
+  {
+    "name": "ときのそら",
+    "readings": ["ときのそら"],
+    "affiliation": "ホロライブプロダクション",
+    "category": "人名",
+    "source": "https://www.wikidata.org/wiki/Q65275812"
+  },
+  {
+    "name": "白上フブキ",
+    "readings": ["しらかみふぶき", "ふぶき"],
+    "affiliation": "ホロライブプロダクション",
+    "category": "人名",
+    "source": "https://www.wikidata.org/wiki/Q85871891"
+  },
+  {
+    "name": "月ノ美兎",
+    "readings": ["つきのみと", "みと"],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://www.wikidata.org/wiki/Q50821217"
+  },
+  {
+    "name": "樋口楓",
+    "readings": ["ひぐちかえで", "かえで"],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://www.wikidata.org/wiki/Q50821226"
+  },
+  {
+    "name": "葛葉",
+    "readings": ["くずは"],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://www.wikidata.org/wiki/Q97184285"
+  },
+  {
+    "name": "花芽すみれ",
+    "readings": ["かがすみれ", "すみれ"],
+    "affiliation": "ぶいすぽっ！",
+    "category": "人名",
+    "source": "https://www.wikidata.org/wiki/Q110268593"
+  },
+  {
+    "name": "一ノ瀬うるは",
+    "readings": ["いちのせうるは", "うるは"],
+    "affiliation": "ぶいすぽっ！",
+    "category": "人名",
+    "source": "https://www.wikidata.org/wiki/Q110268600"
+  },
+  {
+    "name": "名取さな",
+    "readings": ["なとりさな", "さな"],
+    "affiliation": "個人勢",
+    "category": "人名",
+    "source": "https://www.wikidata.org/wiki/Q65275818"
+  }
+]

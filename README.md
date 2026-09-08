@@ -1,0 +1,69 @@
+# Open VTuber IME Dictionary (VTuber変換辞書)
+
+VTuber（バーチャルYouTuber）の名前やユニット名を、各種日本語入力システム（IME）でスムーズに一発変換できるようにするオープンソースの変換辞書プロジェクトです。
+
+---
+
+## 🌟 特徴
+- **マルチIME対応**: Google 日本語入力 / Mozc、Microsoft IME (Windows)、macOS ユーザ辞書、ATOK に対応。
+- **完全なクリーンルーム開発**: 外部の有償・クローズドな辞書データを一切参照せず、Wikidata（CC0）および公式一次情報のみをもとに構築。
+- **GitHub Actions 自動化**: プルリクエスト時のバリデーション、Wikidataからの定期自動抽出、タグリリース時の一括辞書バイナリ生成。
+
+---
+
+## 📥 ダウンロード
+最新の辞書データは **[Releases](../../releases)** ページからダウンロードできます。
+- `vtuber-dict-all.zip`: 全形式同梱パッケージ
+- 個別ファイル:
+  - `google_ime.txt`: Google日本語入力 / Mozc 向け (UTF-8 TSV)
+  - `ms_ime.txt`: Microsoft IME (Windows) 向け (UTF-16LE BOM, CRLF TSV)
+  - `macos_user_dict.plist`: macOS ユーザ辞書 向け (XML Property List)
+  - `atok.txt`: ATOK 向け (UTF-16LE BOM, CRLF TSV)
+
+---
+
+## 💻 インポート手順
+
+### 1. Google 日本語入力 / Mozc
+1. タスクバーまたはメニューバーの入力メニューから **「プロパティ」** または **「辞書ツール」** を開きます。
+2. 上部メニューの **「管理」 > 「新規辞書にインポート」** を選択します。
+3. ファイルに `google_ime.txt` を指定し、辞書名（例: `VTuber`）を入力してインポートします。
+
+### 2. Microsoft IME (Windows 10 / 11)
+1. IMEアイコンを右クリックし、**「設定」 > 「学習と辞書」** （または辞書ツール）を開きます。
+2. **「ユーザ辞書ツール」** を起動します。
+3. メニューバーの **「ツール」 > 「テキストファイルからの登録」** を選択します。
+4. `ms_ime.txt` を選択して読み込みます。
+
+### 3. macOS (日本語入力)
+1. **「システム設定」 > 「キーボード」 > 「ユーザ辞書...」** （または「テキスト置換」）を開きます。
+2. ダウンロードした `macos_user_dict.plist` を、設定画面の一覧エリアに**直接ドラッグ＆ドロップ**します。
+3. （※ iCloud同期が有効な場合、同じApple IDのiPhone / iPadにも自動反映されます）
+
+### 4. ATOK
+1. ATOKメニューの **「辞書メンテナンス」 > 「単語一括処理」** を開きます。
+2. 「単語ファイル」に `atok.txt` を指定し、登録先辞書を選択して **「登録」** を実行します。
+
+---
+
+## 🛠️ 開発・ビルド方法
+
+### 必要環境
+- Python 3.9 以上（外部追加ライブラリ不要、標準ライブラリのみで動作）
+
+### バリデーションの実行
+```bash
+python3 src/validator.py
+```
+
+### 辞書のビルド
+```bash
+python3 src/builder.py
+```
+実行後、`dist/` フォルダ配下に各IME用ファイルおよび `vtuber-dict-all.zip` が出力されます。
+
+---
+
+## 📜 ライセンス
+- プログラムコード / スクリプト: **MIT License**
+- 辞書データ (`data/` 配下および生成された辞書ファイル): **CC0 1.0 Universal (Public Domain)**
