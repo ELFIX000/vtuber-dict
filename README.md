@@ -64,6 +64,16 @@ python3 src/builder.py
 
 ---
 
+## 🤝 コントリビューション・データ修正
+
+データの追加や修正はいつでも歓迎しています！
+
+- **Issueからの申請**: 未登録のVTuberや読みの間違いがあれば、[Issues](../../issues) からテンプレートに沿って投稿してください（AIエージェントによる自動反映も活用しています）。
+- **Pull Request**: `data/vtubers.json` を直接編集してPRを送ることも可能です。PR作成時に GitHub Actions により `validator.py` が自動実行され、データの整合性が検証されます。
+
+---
+
 ## 📜 ライセンス
 - プログラムコード / スクリプト: **MIT License**
 - 辞書データ (`data/` 配下および生成された辞書ファイル): **CC0 1.0 Universal (Public Domain)**
+

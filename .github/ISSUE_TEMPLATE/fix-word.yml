@@ -1,0 +1,35 @@
+name: 単語・読みの修正リクエスト
+description: 既存データの誤字・読み間違い・所属変更などを報告します
+title: "[修正] "
+labels: ["bug", "data-update"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        データの誤りのご報告ありがとうございます！
+  - type: input
+    id: target
+    attributes:
+      label: 対象の単語
+      placeholder: 例: 因幡はねる
+    validations:
+      required: true
+  - type: textarea
+    id: current_issue
+    attributes:
+      label: 現在の問題点
+      placeholder: 例: 読みが間違っている、所属グループが変わった、などの詳細
+    validations:
+      required: true
+  - type: textarea
+    id: proposed_fix
+    attributes:
+      label: 修正案
+      placeholder: 正しい表記や読みを入力してください
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: 公式情報URL / 参考リンク
+      placeholder: 公式発表などのURL
