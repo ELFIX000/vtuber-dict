@@ -12,8 +12,8 @@ VTuber（バーチャルYouTuber）の名前やユニット名を、各種日本
 
 ## 🌟 特徴
 - **マルチIME対応**: Google 日本語入力 / Mozc、Microsoft IME (Windows)、macOS ユーザ辞書、ATOK に対応。
-- **高精度＆クリーンルーム開発**: 日本語版Wikipedia公式API（MediaWiki API）およびWikidata（CC0）から客観的事実（固有名詞と読み仮名）のみを抽出。手動レビュー済みのオーバーライド機構により、ファンネームや愛称の誤読混入を徹底排除。
-- **自動化・履歴管理**: 定期自動抽出、GitHub Actions による自動ビルド、CalVer（日付バージョン）での過去リリース全保存。
+- **高精度な読み仮名**: ファンネームや愛称と正式名称を区別し、純粋な名前の読みのみを厳選収録。
+- **自動ビルド・履歴管理**: GitHub Actions による自動ビルド、CalVer（日付バージョン）での過去リリース全保存。コミュニティからのIssue/PRで手軽に追加・修正可能。
 
 ---
 
@@ -76,8 +76,8 @@ python3 src/builder.py
 
 データの追加や修正はいつでも歓迎しています！
 
-- **Issueからの申請**: 未登録のVTuberや読みの間違いがあれば、[Issues](../../issues) からテンプレートに沿って投稿してください。手動保護辞書（`data/overrides.json`）に反映され、自動収集による上書きを防ぎます。
-- **Pull Request**: `data/overrides.json` に追加・修正を記述してPRを送ってください。PR作成時に GitHub Actions により `validator.py` が自動実行され、データの整合性が検証されます。
+- **Issueからの申請**: 未登録のVTuberや読みの間違いがあれば、[Issues](../../issues) からテンプレートに沿って投稿してください。メンテナにより辞書データへ反映されます。
+- **Pull Request**: `data/overrides.json` または `data/vtubers.json` に追加・修正を記述してPRを送ってください。PR作成時に GitHub Actions により `validator.py` が自動実行され、データの整合性が検証されます。
 
 ---
 
