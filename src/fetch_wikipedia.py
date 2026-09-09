@@ -154,7 +154,7 @@ def fetch_category_vtubers():
     ]
     all_titles = set()
     for cat in categories:
-        titles = get_category_page_titles(cat, max_depth=1)
+        titles = get_category_page_titles(cat, max_depth=2)
         all_titles.update(titles)
         time.sleep(0.5)
 

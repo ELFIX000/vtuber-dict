@@ -147,7 +147,23 @@ def main():
     build_atok(entries, dist_dir / "atok.txt")
     build_macos_plist(entries, dist_dir / "macos_user_dict.plist")
     create_zip(dist_dir)
+
+    # README.md の収録人数・単語数バッジを自動更新
+    total_words = sum(len(item.get("readings", [])) for item in entries)
+    update_readme(base_dir, len(entries), total_words)
+
     print("✨ Build completed successfully!")
+
+def update_readme(base_dir: Path, vtuber_count: int, word_count: int):
+    readme_path = base_dir / "README.md"
+    if not readme_path.exists():
+        return
+    import re
+    content = readme_path.read_text(encoding="utf-8")
+    content = re.sub(r"収録VTuber数-[^-]+-", f"収録VTuber数-{vtuber_count}人-", content)
+    content = re.sub(r"収録単語数-[^-]+-", f"収録単語数-{word_count}語-", content)
+    readme_path.write_text(content, encoding="utf-8")
+    print(f"Updated README.md stats: {vtuber_count} VTubers, {word_count} words.")
 
 if __name__ == "__main__":
     main()

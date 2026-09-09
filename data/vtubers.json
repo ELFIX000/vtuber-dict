@@ -220,7 +220,7 @@
     "readings": [
       "あまかみこのみ"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "ミリプロ",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q123415015"
   },
@@ -229,7 +229,7 @@
     "readings": [
       "じゅうふうていらでん"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "ホロライブ",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q123417421"
   },
@@ -274,7 +274,7 @@
     "readings": [
       "るんるん"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q126967186"
   },
@@ -292,7 +292,7 @@
     "readings": [
       "でびでびでびる"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(SEEDs出身)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q84581405"
   },
@@ -487,7 +487,7 @@
     "readings": [
       "かぶらきろこ"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q114440510"
   },
@@ -739,7 +739,7 @@
     "readings": [
       "がぶりえる"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "VHS City",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q117379359"
   },
@@ -757,7 +757,7 @@
     "readings": [
       "れおすゔぃんせんと"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q114440603"
   },
@@ -775,7 +775,7 @@
     "readings": [
       "わたらいひばり"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q114593247"
   },
@@ -838,7 +838,7 @@
     "readings": [
       "どーら"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(SEEDs出身)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q114398351"
   },
@@ -856,7 +856,7 @@
     "readings": [
       "るいすきゃみー"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q115221265"
   },
@@ -865,7 +865,7 @@
     "readings": [
       "どっぴおどろっぷさいと"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "NIJISANJI EN",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q115653505"
   },
@@ -883,7 +883,7 @@
     "readings": [
       "ゔぇーるゔぁーみりおん"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "NIJISANJI EN",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q115653674"
   },
@@ -1147,7 +1147,7 @@
     "readings": [
       "もちひよこ"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "もちぷろ",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q61730373"
   },
@@ -1210,7 +1210,7 @@
     "readings": [
       "やんなり"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "NIJISANJI KR出身",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q107577574"
   },
@@ -1228,7 +1228,7 @@
     "readings": [
       "おりばーえばんす"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q107693719"
   },
@@ -1282,7 +1282,7 @@
     "readings": [
       "かなえ"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(ゲーマーズ出身)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q107906931"
   },
@@ -1364,7 +1364,7 @@
     "readings": [
       "ろーれんいろあす"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q107619696"
   },
@@ -1463,7 +1463,7 @@
     "readings": [
       "いろは"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "NIJISANJI KR出身",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q107577910"
   },
@@ -1472,7 +1472,7 @@
     "readings": [
       "れいんぱたーそん"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q107619707"
   },
@@ -1488,7 +1488,8 @@
   {
     "name": "癒月ちょこ",
     "readings": [
-      "ゆづきちょこ"
+      "ゆづきちょこ",
+      "さぶちゃんねる"
     ],
     "affiliation": "ホロライブ",
     "category": "人名",
@@ -1517,7 +1518,7 @@
     "readings": [
       "いせかいじょうちょ"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "神椿",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q107352036"
   },
@@ -1582,7 +1583,7 @@
       "あっきーな",
       "さえぐさあきな"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q110065617"
   },
@@ -1591,7 +1592,7 @@
     "readings": [
       "かいだはる"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q111011060"
   },
@@ -1683,7 +1684,7 @@
     "readings": [
       "かざまいろは"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "ホロライブ",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q109743004"
   },
@@ -1692,7 +1693,7 @@
     "readings": [
       "らぷらすだーくねす"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "ホロライブ",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q109742973"
   },
@@ -1701,7 +1702,7 @@
     "readings": [
       "たかねるい"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "ホロライブ",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q109742985"
   },
@@ -1710,7 +1711,7 @@
     "readings": [
       "ふわみなと"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q110065608"
   },
@@ -1719,7 +1720,7 @@
     "readings": [
       "しらゆきともえ"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q110973135"
   },
@@ -1746,7 +1747,7 @@
     "readings": [
       "ゔぉっくすあくま"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "NIJISANJI EN",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q111044071"
   },
@@ -1764,7 +1765,7 @@
     "readings": [
       "あらがみおうが"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "ホロスターズ",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q109984232"
   },
@@ -1872,7 +1873,7 @@
     "readings": [
       "そなぎ"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "NIJISANJI KR出身",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q110625149"
   },
@@ -1917,7 +1918,7 @@
     "readings": [
       "あるらんでぃす"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "ホロスターズ",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q109852454"
   },
@@ -1926,7 +1927,7 @@
     "readings": [
       "あすてるれだ"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "ホロスターズ",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q109870754"
   },
@@ -1935,14 +1936,15 @@
     "readings": [
       "きしどうてんま"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "ホロスターズ",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q109877846"
   },
   {
     "name": "▽▲TRiNITY▲▽",
     "readings": [
-      "たかみやりおん"
+      "たかみやりおん",
+      "とりにてぃー"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -1953,7 +1955,7 @@
     "readings": [
       "りぜへるえすた"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q85874553"
   },
@@ -1962,7 +1964,7 @@
     "readings": [
       "あんじゅかとりーな"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q85870114"
   },
@@ -1979,7 +1981,8 @@
     "name": "赤井はあと",
     "readings": [
       "あかいはあと",
-      "はあちゃま"
+      "はあちゃま",
+      "さぶちゃんねる"
     ],
     "affiliation": "ホロライブ1期生",
     "category": "人名",
@@ -1997,9 +2000,10 @@
   {
     "name": "緑仙",
     "readings": [
-      "りゅーしぇん"
+      "りゅーしぇん",
+      "さぶちゃんねる"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(SEEDs出身)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q95483927"
   },
@@ -2053,7 +2057,7 @@
     "readings": [
       "おとだまたまこ"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "VHS City",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q97940427"
   },
@@ -2340,7 +2344,7 @@
       "うみせよつは",
       "よつはぴ"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q111327133"
   },
@@ -2367,7 +2371,7 @@
     "readings": [
       "あるすあるまる"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q111461864"
   },
@@ -2376,7 +2380,7 @@
     "readings": [
       "しすたーくれあ"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(SEEDs出身)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q111467566"
   },
@@ -2394,7 +2398,7 @@
     "readings": [
       "よるみれな"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q111949828"
   },
@@ -2430,7 +2434,7 @@
     "readings": [
       "やとがみふうま"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "ホロスターズ",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q111590467"
   },
@@ -2439,7 +2443,7 @@
     "readings": [
       "みなせりお"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "ホロスターズ",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q111590470"
   },
@@ -2448,7 +2452,7 @@
     "readings": [
       "うつぎうゆう"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "ホロスターズ",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q111590468"
   },
@@ -2529,7 +2533,7 @@
     "readings": [
       "るかかねしろ"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "NIJISANJI EN",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q111295191"
   },
@@ -2547,7 +2551,7 @@
     "readings": [
       "べすてぃあぜーた"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "hololive Indonesia",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q111359676"
   },
@@ -2556,7 +2560,7 @@
     "readings": [
       "こぼかなえる"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "hololive Indonesia",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q111359713"
   },
@@ -2594,7 +2598,7 @@
     "readings": [
       "ふみ"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q111294950"
   },
@@ -2621,7 +2625,7 @@
     "readings": [
       "まつかいまお"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q111949830"
   },
@@ -2648,7 +2652,7 @@
     "readings": [
       "せふぃな"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "NIJISANJI KR出身",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q111398909"
   },
@@ -2711,7 +2715,7 @@
     "readings": [
       "ひゃくまんてんばらさろめ"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q112132475"
   },
@@ -2720,7 +2724,7 @@
     "readings": [
       "しぇりんばーがんでぃ"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q120734048"
   },
@@ -2748,7 +2752,7 @@
       "たこ",
       "ほしるべしょう"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q134719646"
   },
@@ -2785,7 +2789,7 @@
     "readings": [
       "らおーらぱんてーら"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "hololive English",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q135105832"
   },
@@ -2819,9 +2823,10 @@
   {
     "name": "水宮枢",
     "readings": [
-      "すうりす"
+      "すうりす",
+      "みずみやすう"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "ホロライブ",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q135106173"
   },
@@ -2832,7 +2837,7 @@
       "ききららびび",
       "ききららゔぃゔぃ"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "ホロライブ",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q135106219"
   },
@@ -2841,7 +2846,7 @@
     "readings": [
       "そふぃあゔぁれんたいん"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q136472526"
   },
@@ -2995,7 +3000,7 @@
     "readings": [
       "みらんけすとれる"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q123500286"
   },
@@ -3040,7 +3045,7 @@
     "readings": [
       "ゔぇいべ"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "Mythic Talent",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q125217297"
   },
@@ -3049,7 +3054,7 @@
     "readings": [
       "えとら"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "VHS City",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q129177538"
   },
@@ -3067,7 +3072,7 @@
     "readings": [
       "えりざべすろーずぶらっどふれいむ"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "hololive English",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q130278560"
   },
@@ -3112,7 +3117,7 @@
     "readings": [
       "ねりっされいゔんくろふと"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "hololive English",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q130279084"
   },
@@ -3241,7 +3246,7 @@
       "しおりはるり",
       "るりどっぐ"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q123500285"
   },
@@ -3250,7 +3255,7 @@
     "readings": [
       "たちつてとと"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q123500284"
   },
@@ -3287,7 +3292,7 @@
       "かげつきゅん",
       "むらくもかげつ"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q140461308"
   },
@@ -3425,7 +3430,7 @@
       "あゆゆ",
       "せんりあゆむ"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q140514620"
   },
@@ -3547,7 +3552,7 @@
     "readings": [
       "ひばちまな"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q140459977"
   },
@@ -3575,7 +3580,7 @@
     "readings": [
       "なせら"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "NIJISANJI KR出身",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q140391780"
   },
@@ -3594,7 +3599,7 @@
     "readings": [
       "みんすぅーは"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "NIJISANJI KR出身",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q140389989"
   },
@@ -3604,7 +3609,7 @@
       "きららたまこ",
       "たまこ"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q140438999"
   },
@@ -3615,7 +3620,7 @@
       "ななたま",
       "なーさん"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q138140873"
   },
@@ -3729,7 +3734,7 @@
       "もねごん",
       "もねち"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q140075239"
   },
@@ -3806,7 +3811,7 @@
       "しがりこ",
       "りこりすと"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q140438102"
   },
@@ -3816,7 +3821,7 @@
       "きさら",
       "きーちゃん"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q140438247"
   },
@@ -3866,7 +3871,7 @@
       "さかよりそうま",
       "そま"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q140436144"
   },
@@ -3949,7 +3954,7 @@
       "くるすなつめ",
       "なちゅめ"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q111284838"
   },
@@ -3968,7 +3973,7 @@
       "ほうしょうまりん",
       "まりりん"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "ホロライブ",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q99470768"
   },
@@ -3977,7 +3982,7 @@
     "readings": [
       "ばあちゃる"
     ],
-    "affiliation": "VTuber",
+    "affiliation": ".LIVE",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q100720517"
   },
@@ -4033,7 +4038,7 @@
       "ぽんちゃん",
       "ぽんとねい"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ(統合後)",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q111289087"
   },
@@ -5602,5 +5607,2678 @@
     "affiliation": "ホロライブ",
     "category": "人名",
     "source": "manual_override"
+  },
+  {
+    "name": "Hetto",
+    "readings": [
+      "ちり"
+    ],
+    "affiliation": "OWOZU",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "Ninomae Ina’nis",
+    "readings": [
+      "にのまえいなにす"
+    ],
+    "affiliation": "hololive English",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "Takanashi Kiara",
+    "readings": [
+      "たかなしきあら"
+    ],
+    "affiliation": "hololive English",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ニャターシャ・ニャンナーズ",
+    "readings": [
+      "にゃたーしゃにゃんなーず"
+    ],
+    "affiliation": "Mythic Talent",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "フワワ・アビスガード モココ・アビスガード",
+    "readings": [
+      "ふわわあびすがーどもここあびすがーど"
+    ],
+    "affiliation": "hololive English",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "Nimu",
+    "readings": [
+      "あるぜんちん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ろふまお",
+    "readings": [
+      "ろふまお"
+    ],
+    "affiliation": "にじさんじ(統合後)",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "轟はじめ",
+    "readings": [
+      "とどろきはじめ"
+    ],
+    "affiliation": "ホロライブ",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "花譜",
+    "readings": [
+      "かふ"
+    ],
+    "affiliation": "神椿",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "みけねこ",
+    "readings": [
+      "みけねこ"
+    ],
+    "affiliation": "転生組",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "イブラヒム",
+    "readings": [
+      "いぶらひむ"
+    ],
+    "affiliation": "にじさんじ(統合後)",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "音乃瀬奏",
+    "readings": [
+      "おとのせかなで"
+    ],
+    "affiliation": "ホロライブ",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "カンジ",
+    "readings": [
+      "かんじ"
+    ],
+    "affiliation": "転生組",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "エルフのえる",
+    "readings": [
+      "えるふのえる"
+    ],
+    "affiliation": "にじさんじ(1・2期生)",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ニュイ・ソシエール",
+    "readings": [
+      "にゅいそしえーる"
+    ],
+    "affiliation": "にじさんじ(統合後)",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "虎金妃笑虎",
+    "readings": [
+      "こがねいにこ"
+    ],
+    "affiliation": "ホロライブ",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "クマーバ",
+    "readings": [
+      "くまーば"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ラトナ・プティ",
+    "readings": [
+      "らとなぷてぃ"
+    ],
+    "affiliation": "にじさんじ(統合後)",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "輪堂千速",
+    "readings": [
+      "りんどうちはや"
+    ],
+    "affiliation": "ホロライブ",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "スマサポチャンネル",
+    "readings": [
+      "すまさぽちゃんねる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "天使うと",
+    "readings": [
+      "あまつかうと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "エクス・アルビオ",
+    "readings": [
+      "えくすあるびお"
+    ],
+    "affiliation": "にじさんじ(統合後)",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "雨海ルカ",
+    "readings": [
+      "あまがいるか"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ねるめろ",
+    "readings": [
+      "ねるめろ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "レン ゾット",
+    "readings": [
+      "れんぞっと"
+    ],
+    "affiliation": "NIJISANJI EN",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "響咲リオナ",
+    "readings": [
+      "いさきりおな"
+    ],
+    "affiliation": "ホロライブ",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "のっき",
+    "readings": [
+      "のっき"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "空澄セナ",
+    "readings": [
+      "あすみせな"
+    ],
+    "affiliation": "ぶいすぽっ!",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ミオリ・セレスタ",
+    "readings": [
+      "みおりせれすた"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "かぐらなな",
+    "readings": [
+      "かぐらなな"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ベルモンド・バンデラス",
+    "readings": [
+      "べるもんどばんでらす"
+    ],
+    "affiliation": "にじさんじ(SEEDs出身)",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "マリア マリオネット",
+    "readings": [
+      "まりあまりおねっと"
+    ],
+    "affiliation": "NIJISANJI EN",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ゼントレヤ",
+    "readings": [
+      "ぜんとれや"
+    ],
+    "affiliation": "元Vshojo",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ヨメミ",
+    "readings": [
+      "よめみ"
+    ],
+    "affiliation": "元エイレーン一家",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "Rosemi Lovelock",
+    "readings": [
+      "ろぜみらぶろっく"
+    ],
+    "affiliation": "NIJISANJI EN",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "夜絆ニウ",
+    "readings": [
+      "よづなにう"
+    ],
+    "affiliation": "Neo-Porte",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "キルシュトルテ",
+    "readings": [
+      "きるしゅとるて"
+    ],
+    "affiliation": "天獄組",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ピップキン ピッパ",
+    "readings": [
+      "ぴっぷきんぴっぱ"
+    ],
+    "affiliation": "Phase Connect",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "本阿弥あずさ",
+    "readings": [
+      "ほんあみあずさ"
+    ],
+    "affiliation": "REALITY Studios",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "マヤ・プトゥリ",
+    "readings": [
+      "まやぷとぅり"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "おめがレイ おめがリオ",
+    "readings": [
+      "おめがれいおめがりお"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "理芽",
+    "readings": [
+      "りめ"
+    ],
+    "affiliation": "神椿",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "蒼真なひろ",
+    "readings": [
+      "そうまなひろ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "しろせんせー",
+    "readings": [
+      "しろせんせー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "シルバーベイル",
+    "readings": [
+      "しるばーべいる"
+    ],
+    "affiliation": "Mythic Talent",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "うるか",
+    "readings": [
+      "うるか"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "悠針れい",
+    "readings": [
+      "ゆうばりれい"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "レヴィ・エリファ",
+    "readings": [
+      "れゔぃえりふぁ"
+    ],
+    "affiliation": "にじさんじ(統合後)",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ヨミ カスカ",
+    "readings": [
+      "よみかすか"
+    ],
+    "affiliation": "REALITY Studios",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "キルハ",
+    "readings": [
+      "きるは"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ハロー キティ",
+    "readings": [
+      "はろーきてぃ"
+    ],
+    "affiliation": "サンリオ",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "スカーレ ヨナグニ",
+    "readings": [
+      "すかーれよなぐに"
+    ],
+    "affiliation": "NIJISANJI EN",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "なぃとめあ",
+    "readings": [
+      "なぃとめあ"
+    ],
+    "affiliation": "@すりぃぷもんすたー",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "桜舞兎",
+    "readings": [
+      "さくらまう"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ぐでたま",
+    "readings": [
+      "ぐでたま"
+    ],
+    "affiliation": "サンリオ",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "かかげ",
+    "readings": [
+      "かかげ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "幸祜",
+    "readings": [
+      "ここ"
+    ],
+    "affiliation": "神椿",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "白玖ウタノ",
+    "readings": [
+      "しらたまうたの"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "山黒音玄",
+    "readings": [
+      "やまぐろねくろ"
+    ],
+    "affiliation": "VHS City",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ベンタクロウ ブリンガー",
+    "readings": [
+      "べんたくろうぶりんがー"
+    ],
+    "affiliation": "NIJISANJI EN",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "そらねこ",
+    "readings": [
+      "そらねこ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ケモノズ",
+    "readings": [
+      "けものず"
+    ],
+    "affiliation": "REALITY Studios",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "リージス・アルテア",
+    "readings": [
+      "りーじすあるてあ"
+    ],
+    "affiliation": "HOLOSTARS English",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "エモキ",
+    "readings": [
+      "えもき"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "アスター アルカディア",
+    "readings": [
+      "あすたーあるかでぃあ"
+    ],
+    "affiliation": "NIJISANJI EN",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ハミタ",
+    "readings": [
+      "はみた"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "アイア アマレ",
+    "readings": [
+      "あいああまれ"
+    ],
+    "affiliation": "NIJISANJI EN",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "あまねもものスタジオ",
+    "readings": [
+      "あまねもものすたじお"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ハナ・マキア",
+    "readings": [
+      "はなまきあ"
+    ],
+    "affiliation": "NIJISANJI ID出身",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "チョま",
+    "readings": [
+      "ちょま"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "えもこちゃんねる",
+    "readings": [
+      "えもこちゃんねる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "アンジョー コーサカ",
+    "readings": [
+      "あんじょーこーさか"
+    ],
+    "affiliation": "Balus",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "陽向葵ゅか / Hinata Yuka",
+    "readings": [
+      "ゅかにゃん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "雲母ミミ",
+    "readings": [
+      "きららみみ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "エリー・コニファー",
+    "readings": [
+      "えりーこにふぁー"
+    ],
+    "affiliation": "にじさんじ(統合後)",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "アクセル・シリオス",
+    "readings": [
+      "あくせるしりおす"
+    ],
+    "affiliation": "HOLOSTARS English",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "Froot",
+    "readings": [
+      "ふるーと"
+    ],
+    "affiliation": "元Vshojo",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ろのみやひなぎく",
+    "readings": [
+      "ろのみやひなぎく"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ヴェザリウス バンデージ",
+    "readings": [
+      "ゔぇざりうすばんでーじ"
+    ],
+    "affiliation": "NIJISANJI EN",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "クリムゾン",
+    "readings": [
+      "くりむぞん"
+    ],
+    "affiliation": "クリムゾン",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ケイリクス・デボネア",
+    "readings": [
+      "けいりくすでぼねあ"
+    ],
+    "affiliation": "NIJISANJI EN",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "じんむ",
+    "readings": [
+      "じんむ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ばーんさんち",
+    "readings": [
+      "ばーんさんち"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "けんぼー",
+    "readings": [
+      "けんぼー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "モスラメソ",
+    "readings": [
+      "もすらめそ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "holoAN room",
+    "readings": [
+      "ほろあな"
+    ],
+    "affiliation": "ホロライブ",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "すぷれあ",
+    "readings": [
+      "すぷれあ"
+    ],
+    "affiliation": "にじさんじ(統合後)",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "すももチャンネル",
+    "readings": [
+      "すももちゃんねる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "浠",
+    "readings": [
+      "みずき"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "みかんとボーカルノート",
+    "readings": [
+      "みかんとぼーかるのーと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ちろる",
+    "readings": [
+      "ちろる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "キャメロン",
+    "readings": [
+      "きゃめろん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ガビス・ベッテル",
+    "readings": [
+      "がびすべってる"
+    ],
+    "affiliation": "HOLOSTARS English",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "コンプサウルス",
+    "readings": [
+      "こんぷさうるす"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "乾物ひもの",
+    "readings": [
+      "かんぶつひもの"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ヌン・ボラ",
+    "readings": [
+      "ぬんぼら"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "フリオドール",
+    "readings": [
+      "ふりおどーる"
+    ],
+    "affiliation": "NIJISANJI EN",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "まーしーくん",
+    "readings": [
+      "まーしーくん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "いるま",
+    "readings": [
+      "いるま"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ノワール・ヴェスパー",
+    "readings": [
+      "のわーるゔぇすぱー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ゆきぶやー",
+    "readings": [
+      "ゆきぶやー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ジール・ギンジョウカ",
+    "readings": [
+      "じーるぎんじょうか"
+    ],
+    "affiliation": "NIJISANJI EN",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ジュラルド・ティー・レクスフォード",
+    "readings": [
+      "じゅらるどてぃーれくすふぉーど"
+    ],
+    "affiliation": "HOLOSTARS English",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "よなか",
+    "readings": [
+      "よなか"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "るつぼのばーちゃる",
+    "readings": [
+      "るつぼのばーちゃる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "飴宮なずな",
+    "readings": [
+      "あめみやなずな"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "セイブル",
+    "readings": [
+      "せいぶる"
+    ],
+    "affiliation": "NIJISANJI EN",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "すち",
+    "readings": [
+      "すち"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "きぜつちゃん",
+    "readings": [
+      "きぜつちゃん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "こどもだってつらいよ",
+    "readings": [
+      "こどもだってつらいよ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ユプシロン",
+    "readings": [
+      "ゆぷしろん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "みにまるコミック",
+    "readings": [
+      "みにまるこみっく"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "クロード クローマーク",
+    "readings": [
+      "くろーどくろーまーく"
+    ],
+    "affiliation": "NIJISANJI EN",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "みさお",
+    "readings": [
+      "みさお"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "LON",
+    "readings": [
+      "ろん"
+    ],
+    "affiliation": "MKLNtic",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "とおこ",
+    "readings": [
+      "とおこ"
+    ],
+    "affiliation": "REJECT",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "イヴ・ヴァルレーヌ",
+    "readings": [
+      "いゔゔぁるれーぬ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "或世イヌ",
+    "readings": [
+      "あるせいぬ"
+    ],
+    "affiliation": "Neo-Porte",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "モイラ",
+    "readings": [
+      "もいら"
+    ],
+    "affiliation": "にじさんじ(1・2期生)",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "パウラちゃんねる",
+    "readings": [
+      "ぱうらちゃんねる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "タカ・ラディマン",
+    "readings": [
+      "たからでぃまん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "みこと",
+    "readings": [
+      "みこと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "カルロ・ピノ",
+    "readings": [
+      "かるろぴの"
+    ],
+    "affiliation": ".LIVE",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "だいちゃん",
+    "readings": [
+      "だいちゃん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "レグルシュ・ライオンハート",
+    "readings": [
+      "れぐるしゅらいおんはーと"
+    ],
+    "affiliation": "のりプロ",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "リズ",
+    "readings": [
+      "りず"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ハ・ユン",
+    "readings": [
+      "はゆん"
+    ],
+    "affiliation": "NIJISANJI KR出身",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ユメノシオリ",
+    "readings": [
+      "ゆめのしおり"
+    ],
+    "affiliation": "元ぱりぷろ",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ふぇありす",
+    "readings": [
+      "ふぇありす"
+    ],
+    "affiliation": "バ美肉",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "オクタビオ",
+    "readings": [
+      "おくたびお"
+    ],
+    "affiliation": "HOLOSTARS English",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "萌々嫁もか",
+    "readings": [
+      "ももかもか"
+    ],
+    "affiliation": "ますかれーど",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "キュインちゃんねる@HEIWA",
+    "readings": [
+      "はるるな"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ミツルギリア",
+    "readings": [
+      "みつるぎりあ"
+    ],
+    "affiliation": "910inc",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "天川はの",
+    "readings": [
+      "あまかわはの"
+    ],
+    "affiliation": "Re:AcT",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "デジモちゃん",
+    "readings": [
+      "でじもちゃん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ハルカ",
+    "readings": [
+      "はるか"
+    ],
+    "affiliation": "元Vshojo",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "まつん",
+    "readings": [
+      "まつん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ヒメ ハジメ",
+    "readings": [
+      "ひめはじめ"
+    ],
+    "affiliation": "元Vshojo",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "べあもりゆるも",
+    "readings": [
+      "べあもりゆるも"
+    ],
+    "affiliation": "ZERO Project",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "楠栞桜",
+    "readings": [
+      "くすのきしお"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "すあだちゃんねる",
+    "readings": [
+      "すあだちゃんねる"
+    ],
+    "affiliation": "転生組",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "鳳玲天々",
+    "readings": [
+      "ほうれいてんてん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "カナメとハルキー",
+    "readings": [
+      "かなめとはるきー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "クララチャームウッド",
+    "readings": [
+      "くららちゃーむうっど"
+    ],
+    "affiliation": "NIJISANJI EN",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ナツ",
+    "readings": [
+      "なつ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ヤマト・イオリ",
+    "readings": [
+      "やまといおり"
+    ],
+    "affiliation": ".LIVE",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "バーチャルゴリラ",
+    "readings": [
+      "ばーちゃるごりら"
+    ],
+    "affiliation": "VEEMusic",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "Evelyn",
+    "readings": [
+      "いんどねしあ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "マグロナ",
+    "readings": [
+      "まぐろな"
+    ],
+    "affiliation": "バ美肉",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "クリムゾン・ルーズ",
+    "readings": [
+      "くりむぞんるーず"
+    ],
+    "affiliation": "HOLOSTARS English",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ギルメリア・ギン",
+    "readings": [
+      "ぎるめりあぎん"
+    ],
+    "affiliation": "個人勢",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ゼア・コルネリア",
+    "readings": [
+      "ぜあこるねりあ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ヴィクトリア ブライトシールド",
+    "readings": [
+      "ゔぃくとりあぶらいとしーるど"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "のったんちゃんねる",
+    "readings": [
+      "のったんちゃんねる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ボンニフィエール・プラナジャ",
+    "readings": [
+      "ぼんにふぃえーるぷらなじゃ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "あのよ",
+    "readings": [
+      "あのよ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "はかりかんな",
+    "readings": [
+      "はかりかんな"
+    ],
+    "affiliation": "元フェレット女学院",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ミユ・オッタフィア",
+    "readings": [
+      "みゆおったふぃあ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "シン・ユヤ",
+    "readings": [
+      "しんゆや"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "帝",
+    "readings": [
+      "みかど"
+    ],
+    "affiliation": "星めぐり学園",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "幽ヶ崎海愛",
+    "readings": [
+      "ゆうがさきうみ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "アミシア・ミシェラ",
+    "readings": [
+      "あみしあみしぇら"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "まんさや",
+    "readings": [
+      "まんさや"
+    ],
+    "affiliation": "転生組",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ミラ",
+    "readings": [
+      "みら"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "モカ",
+    "readings": [
+      "もか"
+    ],
+    "affiliation": "ShoveL",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ぱふこ",
+    "readings": [
+      "ぱふこ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "のらきゃっと",
+    "readings": [
+      "のらきゃっと"
+    ],
+    "affiliation": "Activ8",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ディズニー・ウメチャンネル",
+    "readings": [
+      "でぃずにーうめちゃんねる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "めぐちゃんねる",
+    "readings": [
+      "めぐちゃんねる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ほたっぺ",
+    "readings": [
+      "ほたっぺ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ゴールドブレット",
+    "readings": [
+      "ごーるどぶれっと"
+    ],
+    "affiliation": "HOLOSTARS English",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "タクトのげーむちゃんねる",
+    "readings": [
+      "たくとのげーむちゃんねる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ミトゥン",
+    "readings": [
+      "みとぅん"
+    ],
+    "affiliation": "Blast Project",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ぽてち",
+    "readings": [
+      "ぽてち"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ライラ・アルストロエメリア",
+    "readings": [
+      "らいらあるすとろえめりあ"
+    ],
+    "affiliation": "NIJISANJI ID出身",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "エリナ・マキナ",
+    "readings": [
+      "えりなまきな"
+    ],
+    "affiliation": "Phase Connect",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "サンキュームービー",
+    "readings": [
+      "さんきゅーむーびー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ナポ・レボリューション",
+    "readings": [
+      "なぽれぼりゅーしょん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ンヌグム",
+    "readings": [
+      "んぬぐむ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "レミリア・ネフィス",
+    "readings": [
+      "れみりあねふぃす"
+    ],
+    "affiliation": "Phase Connect",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ミズハラちゃんねる",
+    "readings": [
+      "みずはらちゃんねる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "花奏かのん",
+    "readings": [
+      "かなでかのん"
+    ],
+    "affiliation": "774 inc.ソロタレント",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ラクシャーナ",
+    "readings": [
+      "らくしゃーな"
+    ],
+    "affiliation": "REJECT",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "くるみ",
+    "readings": [
+      "くるみ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ころね ぽち",
+    "readings": [
+      "ころねぽち"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "楪帆波",
+    "readings": [
+      "ゆずりはほなみ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "めろちん",
+    "readings": [
+      "めろちん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "中里苦無",
+    "readings": [
+      "なかさとくない"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "てるおさん",
+    "readings": [
+      "てるおさん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "バン・ハダ",
+    "readings": [
+      "ばんはだ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "アメノセイ",
+    "readings": [
+      "あめのせい"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "シア",
+    "readings": [
+      "しあ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "フクー",
+    "readings": [
+      "ふくー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "柚木玲奈",
+    "readings": [
+      "らいぶ"
+    ],
+    "affiliation": "えもえち",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "藍坂しう",
+    "readings": [
+      "あいさかしう"
+    ],
+    "affiliation": "REALITY Studios",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "メリーミルク",
+    "readings": [
+      "めりーみるく"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ハッカドール",
+    "readings": [
+      "はっかどーる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "アイシア=ソリッド",
+    "readings": [
+      "あいしあそりっど"
+    ],
+    "affiliation": "バ美肉",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ナラ・ハラマウン",
+    "readings": [
+      "ならはらまうん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "くろいけもみみ",
+    "readings": [
+      "くろいけもみみ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "Civia",
+    "readings": [
+      "しびあ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "りるちゃんねる",
+    "readings": [
+      "りるちゃんねる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "テリア",
+    "readings": [
+      "てりあ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "アズラ・セシリア",
+    "readings": [
+      "あずらせしりあ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "オ・ジユ",
+    "readings": [
+      "おじゆ"
+    ],
+    "affiliation": "NIJISANJI KR出身",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ミミックチャンネル",
+    "readings": [
+      "みみっくちゃんねる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "シラクサアーカイブス",
+    "readings": [
+      "しらくさあーかいぶす"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "エイレーン",
+    "readings": [
+      "えいれーん"
+    ],
+    "affiliation": "元エイレーン一家",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ちくわ",
+    "readings": [
+      "ちくわ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ガオン",
+    "readings": [
+      "がおん"
+    ],
+    "affiliation": "NIJISANJI KR出身",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ライ・ガリレイ",
+    "readings": [
+      "らいがりれい"
+    ],
+    "affiliation": "NIJISANJI ID出身",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "たまチャンネル",
+    "readings": [
+      "たまちゃんねる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ルニ・ルーズ",
+    "readings": [
+      "るにるーず"
+    ],
+    "affiliation": "Phase Connect",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "凪夢夛",
+    "readings": [
+      "なゆた"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "のりまきゆずゆ",
+    "readings": [
+      "のりまきゆずゆ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "オグリメル",
+    "readings": [
+      "おぐりめる"
+    ],
+    "affiliation": "星めぐり学園",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ヌール",
+    "readings": [
+      "ぬーる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "トゥイスティー アマノザコ",
+    "readings": [
+      "とぅいすてぃーあまのざこ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "あーさー",
+    "readings": [
+      "あーさー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "まどろみもあ",
+    "readings": [
+      "まどろみもあ"
+    ],
+    "affiliation": "あいすらぼ",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ホタ チャンネル",
+    "readings": [
+      "ほたちゃんねる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://virtual-youtuber.userlocal.jp"
+  },
+  {
+    "name": "ANYCOLOR",
+    "readings": [
+      "えにーからー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/ANYCOLOR"
+  },
+  {
+    "name": "Singularity Live",
+    "readings": [
+      "しんぎゅらりてぃらいぶ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Singularity%20Live"
+  },
+  {
+    "name": "はーれはれ",
+    "readings": [
+      "はーれはれ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E3%81%AF%E3%83%BC%E3%82%8C%E3%81%AF%E3%82%8C"
+  },
+  {
+    "name": "ド葛本社",
+    "readings": [
+      "どくずほんしゃ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E3%83%89%E8%91%9B%E6%9C%AC%E7%A4%BE"
+  },
+  {
+    "name": "AIAIAI",
+    "readings": [
+      "あいあいあい"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/AIAIAI%20%28%E3%82%AD%E3%82%BA%E3%83%8A%E3%82%A2%E3%82%A4%E3%81%AE%E6%9B%B2%29"
+  },
+  {
+    "name": "Fly to NEW WORLD",
+    "readings": [
+      "ふらいとぅーにゅーわーるど"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Fly%20to%20NEW%20WORLD"
+  },
+  {
+    "name": "Future base",
+    "readings": [
+      "ふゅーちゃーべーす"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Future%20base"
+  },
+  {
+    "name": "Hololive RECORDS",
+    "readings": [
+      "ほろらいぶれこーず"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Hololive%20RECORDS"
+  },
+  {
+    "name": "Melty world",
+    "readings": [
+      "めるてぃわーるど"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Melty%20world"
+  },
+  {
+    "name": "Neo-Porte",
+    "readings": [
+      "ねおぽるて"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Neo-Porte"
+  },
+  {
+    "name": "REALITY",
+    "readings": [
+      "りありてぃ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/REALITY"
+  },
+  {
+    "name": "VTuberの哲学",
+    "readings": [
+      "ぶいちゅーばーのてつがく"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/VTuber%E3%81%AE%E5%93%B2%E5%AD%A6"
+  },
+  {
+    "name": "Re:AcT",
+    "readings": [
+      "りあくと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Re%3AAcT"
+  },
+  {
+    "name": "The Light",
+    "readings": [
+      "ざらいと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/The%20Light%20%28W%26W%E3%81%AE%E6%9B%B2%29"
+  },
+  {
+    "name": "ホロライブ presents 星街すいせいのMUSIC SPACE",
+    "readings": [
+      "ほろらいぶぷれぜんつほしまちすいせいのみゅーじっくすぺーす"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96%20presents%20%E6%98%9F%E8%A1%97%E3%81%99%E3%81%84%E3%81%9B%E3%81%84%E3%81%AEMUSIC%20SPACE"
+  },
+  {
+    "name": "ホロライブ甲子園",
+    "readings": [
+      "ほろらいぶこうしえん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96%E7%94%B2%E5%AD%90%E5%9C%92"
+  },
+  {
+    "name": ".LIVE",
+    "readings": [
+      "どっとらいぶ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/.LIVE"
+  },
+  {
+    "name": "Hello, Morning",
+    "readings": [
+      "はろーもーにんぐ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Hello%2C%20Morning"
+  },
+  {
+    "name": "THINKR",
+    "readings": [
+      "しんかー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/THINKR"
+  },
+  {
+    "name": "Uyet",
+    "readings": [
+      "かぶしきがいしゃゆえっと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Uyet"
+  },
+  {
+    "name": "255",
+    "readings": [
+      "にーごーごー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/255%20%28MonsterZ%20MATE%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%29"
+  },
+  {
+    "name": "Anima III",
+    "readings": [
+      "いせかいじょうちょさーどわんまんらいぶあにますりー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Anima%20III"
+  },
+  {
+    "name": "Brave group",
+    "readings": [
+      "ぶれいぶぐるーぷ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Brave%20group"
+  },
+  {
+    "name": "V/R relation",
+    "readings": [
+      "ぶいあーるりれーしょん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/V/R%20relation"
+  },
+  {
+    "name": "NHKバーチャル紅白歌合戦",
+    "readings": [
+      "えぬえいちけいばーちゃるこうはくうたがっせん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/NHK%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E7%B4%85%E7%99%BD%E6%AD%8C%E5%90%88%E6%88%A6"
+  },
+  {
+    "name": "StelLive",
+    "readings": [
+      "すてらいぶ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/StelLive"
+  },
+  {
+    "name": "VTuber学",
+    "readings": [
+      "ぶいちゅーばーがく"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/VTuber%E5%AD%A6"
+  },
+  {
+    "name": "アラサーがVTuberになった話。",
+    "readings": [
+      "あらさーがぶいちゅーばーになったはなし"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%82%B5%E3%83%BC%E3%81%8CVTuber%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E8%A9%B1%E3%80%82"
+  },
+  {
+    "name": "イザミと東京03",
+    "readings": [
+      "いざみととうきょうぜろさん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B6%E3%83%9F%E3%81%A8%E6%9D%B1%E4%BA%AC03"
+  },
+  {
+    "name": "VTuberなんだが配信切り忘れたら伝説になってた",
+    "readings": [
+      "ぶいちゅーばーなんだがはいしんきりわすれたらでんせつになってた"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/VTuber%E3%81%AA%E3%82%93%E3%81%A0%E3%81%8C%E9%85%8D%E4%BF%A1%E5%88%87%E3%82%8A%E5%BF%98%E3%82%8C%E3%81%9F%E3%82%89%E4%BC%9D%E8%AA%AC%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%9F"
+  },
+  {
+    "name": "ViviON",
+    "readings": [
+      "ゔぃゔぃおん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/ViviON"
+  },
+  {
+    "name": "あおぎり高校",
+    "readings": [
+      "あおぎりこうこう"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%8A%E3%81%8E%E3%82%8A%E9%AB%98%E6%A0%A1"
+  },
+  {
+    "name": "VTuber 魔法のリムジン Tokyo 1day Trip",
+    "readings": [
+      "ぶいちゅーばーまほうのりむじんとうきょうわんでいとりっぷ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/VTuber%20%E9%AD%94%E6%B3%95%E3%81%AE%E3%83%AA%E3%83%A0%E3%82%B8%E3%83%B3%20Tokyo%201day%20Trip"
+  },
+  {
+    "name": "Hololive OFFICIAL CARD GAME",
+    "readings": [
+      "ほろらいぶおふぃしゃるかーどげーむ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Hololive%20OFFICIAL%20CARD%20GAME"
+  },
+  {
+    "name": "ウェザーロイドの時間",
+    "readings": [
+      "うぇざーろいどのじかん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B6%E3%83%BC%E3%83%AD%E3%82%A4%E3%83%89%E3%81%AE%E6%99%82%E9%96%93"
+  },
+  {
+    "name": "大神ミオ",
+    "readings": [
+      "おおかみみお"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%A5%9E%E3%83%9F%E3%82%AA"
+  },
+  {
+    "name": "774 inc.",
+    "readings": [
+      "ななしいんく"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/774%20inc."
+  },
+  {
+    "name": "ROF-MAO",
+    "readings": [
+      "ろふまお"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/ROF-MAO"
+  },
+  {
+    "name": "まだ雨はやまない",
+    "readings": [
+      "まだあめはやまない"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%A0%E9%9B%A8%E3%81%AF%E3%82%84%E3%81%BE%E3%81%AA%E3%81%84"
+  },
+  {
+    "name": "不知火建設",
+    "readings": [
+      "しらぬいけんせつ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E4%B8%8D%E7%9F%A5%E7%81%AB%E5%BB%BA%E8%A8%AD"
+  },
+  {
+    "name": "Donuts",
+    "readings": [
+      "どーなつ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Donuts%20%28%E4%BC%81%E6%A5%AD%29"
+  },
+  {
+    "name": "FLOW GLOW",
+    "readings": [
+      "ふろうぐろう"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/FLOW%20GLOW"
+  },
+  {
+    "name": "ミューコミVR",
+    "readings": [
+      "みゅーこみぶいあーる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B3%E3%83%9FVR"
+  },
+  {
+    "name": "Precious Piece",
+    "readings": [
+      "ぷれしゃすぴーす"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Precious%20Piece"
+  },
+  {
+    "name": "ReGLOSS",
+    "readings": [
+      "りぐろす"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/ReGLOSS"
+  },
+  {
+    "name": "Hololive Dreams",
+    "readings": [
+      "ほろらいぶどりーむす"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Hololive%20Dreams"
+  },
+  {
+    "name": "Hololive GAMERS fes. 超超超超ゲーマーズ",
+    "readings": [
+      "ほろらいぶげーまーずふぇすちょうちょうちょうちょうげーまーず"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Hololive%20GAMERS%20fes.%20%E8%B6%85%E8%B6%85%E8%B6%85%E8%B6%85%E3%82%B2%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%BA"
+  },
+  {
+    "name": "Jig.jp",
+    "readings": [
+      "じぐじぇーぴー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Jig.jp"
+  },
+  {
+    "name": "VERSEn",
+    "readings": [
+      "ゔぁーす"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/VERSEn"
+  },
+  {
+    "name": "ISEGYE IDOL",
+    "readings": [
+      "いせげあいどる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/ISEGYE%20IDOL"
+  },
+  {
+    "name": "Palette Project",
+    "readings": [
+      "ぱれっとぷろじぇくと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Palette%20Project"
+  },
+  {
+    "name": "VEE",
+    "readings": [
+      "ゔぃー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/VEE"
+  },
+  {
+    "name": "Varium",
+    "readings": [
+      "ぶいありうむ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Varium"
+  },
+  {
+    "name": "サイキ道",
+    "readings": [
+      "さいきどう"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%82%AD%E9%81%93"
+  },
+  {
+    "name": "ChroNoiR",
+    "readings": [
+      "くろのわーる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/ChroNoiR"
+  },
+  {
+    "name": "ゆにクリエイト",
+    "readings": [
+      "ゆにくりえいと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E3%82%86%E3%81%AB%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88"
+  },
+  {
+    "name": "不可解",
+    "readings": [
+      "ふかかい"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E4%B8%8D%E5%8F%AF%E8%A7%A3%20%28%E3%83%A9%E3%82%A4%E3%83%96%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%29"
+  },
+  {
+    "name": "市松寿ゞ謡",
+    "readings": [
+      "いちまつすずか"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E5%B8%82%E6%9D%BE%E5%AF%BF%E3%82%9E%E8%AC%A1"
+  },
+  {
+    "name": "戌神ころね",
+    "readings": [
+      "いぬがみころね"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E6%88%8C%E7%A5%9E%E3%81%93%E3%82%8D%E3%81%AD"
+  },
+  {
+    "name": "Autonomy",
+    "readings": [
+      "おーとのみー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Autonomy"
+  },
+  {
+    "name": "Phase Connect",
+    "readings": [
+      "ふぇーずこねくと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Phase%20Connect"
+  },
+  {
+    "name": "Studio STELLAR",
+    "readings": [
+      "すたじおすてら"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Studio%20STELLAR"
+  },
+  {
+    "name": "VRadio",
+    "readings": [
+      "ぶいらじお"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/VRadio"
+  },
+  {
+    "name": "Fiction",
+    "readings": [
+      "ふぃくしょん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Fiction%20%28%E3%81%97%E3%81%90%E3%82%8C%E3%81%86%E3%81%84%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%29"
+  },
+  {
+    "name": "KAMITSUBAKI WARS 2024",
+    "readings": [
+      "かみつばきうぉーずにまるによん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/KAMITSUBAKI%20WARS%202024"
+  },
+  {
+    "name": "MUSIC VERSE",
+    "readings": [
+      "みゅーじっくばーす"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/MUSIC%20VERSE"
+  },
+  {
+    "name": "VShojo",
+    "readings": [
+      "ゔぃしょーじょ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/VShojo"
+  },
+  {
+    "name": "ぱんぱかカフぃR",
+    "readings": [
+      "ぱんぱかかふぃあーる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E3%81%B1%E3%82%93%E3%81%B1%E3%81%8B%E3%82%AB%E3%83%95%E3%81%83R"
+  },
+  {
+    "name": "ぶいすぽっ! Virtual eSports Project",
+    "readings": [
+      "ぶいすぽばーちゃるいーすぽーつぷろじぇくと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E3%81%B6%E3%81%84%E3%81%99%E3%81%BD%E3%81%A3%21%20Virtual%20eSports%20Project"
+  },
+  {
+    "name": "ゲーム部プロジェクト",
+    "readings": [
+      "げーむぶぷろじぇくと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%BC%E3%83%A0%E9%83%A8%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88"
+  },
+  {
+    "name": "ジャニーズ事務所",
+    "readings": [
+      "じゃにーずじむしょ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%8B%E3%83%BC%E3%82%BA%E4%BA%8B%E5%8B%99%E6%89%80"
+  },
+  {
+    "name": "CyberZ",
+    "readings": [
+      "さいばーぜっと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/CyberZ"
+  },
+  {
+    "name": "VTuberスタイル",
+    "readings": [
+      "ぶいちゅーばーすたいる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/VTuber%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB"
+  },
+  {
+    "name": "ヤシロ&ササキのレバガチャダイパン",
+    "readings": [
+      "やしろとささきのればがちゃだいぱん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%82%B7%E3%83%AD%26%E3%82%B5%E3%82%B5%E3%82%AD%E3%81%AE%E3%83%AC%E3%83%90%E3%82%AC%E3%83%81%E3%83%A3%E3%83%80%E3%82%A4%E3%83%91%E3%83%B3"
+  },
+  {
+    "name": "New world",
+    "readings": [
+      "にゅーわーるど"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/New%20world%20%28%E3%82%AD%E3%82%BA%E3%83%8A%E3%82%A2%E3%82%A4%E3%81%AE%E6%9B%B2%29"
+  },
+  {
+    "name": "岩手さちこ",
+    "readings": [
+      "いわてさちこ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E6%89%8B%E3%81%95%E3%81%A1%E3%81%93"
   }
 ]
