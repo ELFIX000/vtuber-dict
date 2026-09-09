@@ -4,7 +4,7 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/ELFIX000/vtuber-dict)](https://github.com/ELFIX000/vtuber-dict/releases/latest)
 [![収録VTuber数](https://img.shields.io/badge/収録VTuber数-1072人-2ea44f.svg)](data/vtubers.json)
 [![収録単語数](https://img.shields.io/badge/収録単語数-1158語-0969da.svg)](dist/google_ime.txt)
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-orange.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 VTuber（バーチャルYouTuber）の名前やユニット名を、各種日本語入力システム（IME）でスムーズに一発変換できるようにするオープンソースの変換辞書プロジェクトです。
 
@@ -81,11 +81,9 @@ python3 src/builder.py
 
 ---
 
-## 📜 ライセンスと帰属表示
-- プログラムコード / スクリプト: **MIT License**
-- 辞書データ (`data/` 配下および生成された辞書ファイル): **CC0 1.0 Universal (Public Domain)**
-  - ※ 辞書データは固有名詞およびその読み仮名という著作権法上の保護対象外である客観的事実情報で構成されています。
-  - データ抽出元:
-    - [Wikidata](https://www.wikidata.org/) (licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/))
-    - [日本語版 Wikipedia](https://ja.wikipedia.org/) (licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))
+## 📜 ライセンス
+本プロジェクトの辞書データおよびプログラムコードは **[CC BY-NC 4.0 (Creative Commons 表示 - 非営利 4.0 国際)](https://creativecommons.org/licenses/by-nc/4.0/)** に統一されています。
+
+- **非商用利用**: 個人利用、改変、再配布など、非営利目的であれば誰でも自由にご利用いただけます。
+- **商用利用**: 商用目的での利用（製品への組み込み、有料販売、営利サービスでの直接利用等）をご希望の場合は、事前に[Issues](../../issues)等でお問い合わせ・ご相談ください。
 
