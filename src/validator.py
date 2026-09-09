@@ -100,4 +100,14 @@ if __name__ == "__main__":
     blacklist_file = base_dir / "data" / "blacklist.txt"
 
     success = validate_dataset(data_file, blacklist_file)
-    sys.exit(0 if success else 1)
+    if not success:
+        sys.exit(1)
+
+    overrides_file = base_dir / "data" / "overrides.json"
+    if overrides_file.exists():
+        print("\n--- Validating Overrides Data ---")
+        override_success = validate_dataset(overrides_file, blacklist_file)
+        if not override_success:
+            sys.exit(1)
+
+    sys.exit(0)

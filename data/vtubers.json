@@ -11,9 +11,7 @@
   {
     "name": "電脳少女シロ",
     "readings": [
-      "でんのうしょうじょしろ",
-      "しろ",
-      "しろいるか"
+      "でんのうしょうじょしろ"
     ],
     "affiliation": ".LIVE",
     "category": "人名",
@@ -31,18 +29,16 @@
   {
     "name": "白上フブキ",
     "readings": [
-      "しらかみふぶき",
-      "ふぶき"
+      "しらかみふぶき"
     ],
-    "affiliation": "ホロライブプロダクション",
+    "affiliation": "ホロライブ",
     "category": "人名",
     "source": "https://www.wikidata.org/wiki/Q85871891"
   },
   {
     "name": "月ノ美兎",
     "readings": [
-      "つきのみと",
-      "みと"
+      "つきのみと"
     ],
     "affiliation": "にじさんじ",
     "category": "人名",
@@ -51,9 +47,7 @@
   {
     "name": "樋口楓",
     "readings": [
-      "ひぐちかえで",
-      "かえで",
-      "でろーん"
+      "ひぐちかえで"
     ],
     "affiliation": "にじさんじ",
     "category": "人名",
@@ -71,8 +65,7 @@
   {
     "name": "花芽すみれ",
     "readings": [
-      "かがすみれ",
-      "すみれ"
+      "かがすみれ"
     ],
     "affiliation": "ぶいすぽっ！",
     "category": "人名",
@@ -81,8 +74,7 @@
   {
     "name": "一ノ瀬うるは",
     "readings": [
-      "いちのせうるは",
-      "うるは"
+      "いちのせうるは"
     ],
     "affiliation": "ぶいすぽっ！",
     "category": "人名",
@@ -91,8 +83,7 @@
   {
     "name": "名取さな",
     "readings": [
-      "なとりさな",
-      "さな"
+      "なとりさな"
     ],
     "affiliation": "個人勢",
     "category": "人名",
@@ -110,10 +101,9 @@
   {
     "name": "アユンダ・リス",
     "readings": [
-      "あゆんだりす",
-      "りすちゃん"
+      "あゆんだりす"
     ],
-    "affiliation": "ホロライブインドネシア",
+    "affiliation": "ホロライブ",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q98116419"
   },
@@ -219,8 +209,7 @@
   {
     "name": "猫屋敷美紅",
     "readings": [
-      "ねこやしきみく",
-      "みくぽぽ"
+      "ねこやしきみく"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -283,7 +272,6 @@
   {
     "name": "ルンルン",
     "readings": [
-      "るんちょま",
       "るんるん"
     ],
     "affiliation": "VTuber",
@@ -405,9 +393,7 @@
   {
     "name": "ろぜっくぴん",
     "readings": [
-      "ぴんちゃん",
-      "ろぜっくぴん",
-      "ろぜぴん"
+      "ろぜっくぴん"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -416,7 +402,6 @@
   {
     "name": "アキ・ローゼンタール",
     "readings": [
-      "あきろぜ",
       "あきろーぜんたーる"
     ],
     "affiliation": "ホロライブ",
@@ -472,7 +457,6 @@
   {
     "name": "しゅがーぐらいだー",
     "readings": [
-      "しゅがぐら",
       "しゅがーぐらいだー"
     ],
     "affiliation": "VTuber",
@@ -501,7 +485,7 @@
   {
     "name": "鏑木ろこ",
     "readings": [
-      "ろってぃ"
+      "かぶらきろこ"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -510,18 +494,18 @@
   {
     "name": "葉加瀬冬雪",
     "readings": [
-      "らぼめん"
+      "はかせふゆき"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q114398356"
   },
   {
     "name": "花畑チャイカ",
     "readings": [
-      "ちゃいかぶらいん"
+      "はなばたけちゃいか"
     ],
-    "affiliation": "VTuber",
+    "affiliation": "にじさんじ",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q114398354"
   },
@@ -672,7 +656,6 @@
   {
     "name": "綿咲そら",
     "readings": [
-      "そら",
       "わたさきそら"
     ],
     "affiliation": "VTuber",
@@ -781,7 +764,6 @@
   {
     "name": "天羽しろっぷ",
     "readings": [
-      "あまう",
       "あまうしろっぷ"
     ],
     "affiliation": "VTuber",
@@ -926,7 +908,7 @@
   {
     "name": "すーぱーそに子",
     "readings": [
-      "そにこみ"
+      "すーぱーそにこ"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -980,6 +962,7 @@
   {
     "name": "AmaLee",
     "readings": [
+      "あまりー",
       "あまんだりー"
     ],
     "affiliation": "VTuber",
@@ -1025,9 +1008,7 @@
   {
     "name": "バーチャルのじゃロリ狐娘Youtuberおじさん",
     "readings": [
-      "ねこます",
-      "ねこみみますたー",
-      "のじゃおじ"
+      "ばーちゃるのじゃろりきつねむすめゆーちゅーばーおじさん"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -1083,8 +1064,6 @@
   {
     "name": "しぐれうい",
     "readings": [
-      "ういびーむ",
-      "ういまま",
       "しぐれうい"
     ],
     "affiliation": "VTuber",
@@ -1184,8 +1163,7 @@
   {
     "name": "アズマリム",
     "readings": [
-      "あずまりむ",
-      "あずりむ"
+      "あずまりむ"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -1194,8 +1172,7 @@
   {
     "name": "佃煮のりお",
     "readings": [
-      "つくだにのりお",
-      "のりおまま"
+      "つくだにのりお"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -1204,7 +1181,7 @@
   {
     "name": "バーチャル美少女ねむ",
     "readings": [
-      "ねむ"
+      "ばーちゃるびしょうじょねむ"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -1240,7 +1217,6 @@
   {
     "name": "ななかぐら",
     "readings": [
-      "かぐらなな",
       "ななかぐら"
     ],
     "affiliation": "VTuber",
@@ -1286,7 +1262,6 @@
   {
     "name": "ゴールドシップ",
     "readings": [
-      "ごるし",
       "ごーるどしっぷ"
     ],
     "affiliation": "VTuber",
@@ -1323,7 +1298,6 @@
   {
     "name": "ワトソン・アメリア",
     "readings": [
-      "あめりあわとそん",
       "わとそんあめりあ"
     ],
     "affiliation": "VTuber",
@@ -1351,8 +1325,7 @@
   {
     "name": "アイラニ・イオフィフティーン",
     "readings": [
-      "あいらにいおふぃふてぃーん",
-      "いおふぃ"
+      "あいらにいおふぃふてぃーん"
     ],
     "affiliation": "ホロライブインドネシア",
     "category": "人名",
@@ -1361,8 +1334,7 @@
   {
     "name": "フレン・E・ルスタリオ",
     "readings": [
-      "おれん",
-      "おーく"
+      "ふれんいーるすたりお"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -1507,8 +1479,7 @@
   {
     "name": "中野公",
     "readings": [
-      "なかののへや",
-      "なかのはむ"
+      "なかのおおやけ"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -1526,8 +1497,7 @@
   {
     "name": "剣持刀也",
     "readings": [
-      "けんもちとうや",
-      "ぶれいどもあなまん"
+      "けんもちとうや"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -1563,6 +1533,7 @@
   {
     "name": "轟京子",
     "readings": [
+      "とどろききょうこ",
       "ろきぺ"
     ],
     "affiliation": "VTuber",
@@ -1608,7 +1579,8 @@
   {
     "name": "三枝明那",
     "readings": [
-      "あっきーな"
+      "あっきーな",
+      "さえぐさあきな"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -1680,6 +1652,7 @@
   {
     "name": "奈羅花",
     "readings": [
+      "ならか",
       "にゃらか"
     ],
     "affiliation": "VTuber",
@@ -1698,7 +1671,8 @@
   {
     "name": "山神カルタ",
     "readings": [
-      "やま"
+      "やま",
+      "やまがみかるた"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -1797,8 +1771,6 @@
   {
     "name": "ニム・スペースキャット",
     "readings": [
-      "およびそふぃあまがりーさんてぃじゃん",
-      "にむ",
       "にむすぺーすきゃっと"
     ],
     "affiliation": "VTuber",
@@ -1943,7 +1915,6 @@
   {
     "name": "アルランディス",
     "readings": [
-      "あらん",
       "あるらんでぃす"
     ],
     "affiliation": "VTuber",
@@ -1989,9 +1960,7 @@
   {
     "name": "アンジュ・カトリーナ",
     "readings": [
-      "あんじゅかとりーな",
-      "あんちゃん",
-      "ないとばたふらい"
+      "あんじゅかとりーな"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -2055,8 +2024,7 @@
   {
     "name": "さくらみこ",
     "readings": [
-      "さくらみこ",
-      "みこち"
+      "さくらみこ"
     ],
     "affiliation": "ホロライブ",
     "category": "人名",
@@ -2121,7 +2089,6 @@
   {
     "name": "ヤミクモケリン",
     "readings": [
-      "けりん",
       "やみくもけりん"
     ],
     "affiliation": "VTuber",
@@ -2140,8 +2107,7 @@
   {
     "name": "える",
     "readings": [
-      "える",
-      "すのーほわいとぱらだいすえるさんとふろうわすれなぴゅあぷりんせすりーぶるらぶはいでるんどこどこやったぜゔぁるきゅりあぱっしょんあーるゔのえるちゃこぼしえるありあふろーじあめいどいんぶるーむえる"
+      "える"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -2150,8 +2116,7 @@
   {
     "name": "さえきやひろ",
     "readings": [
-      "さえきやひろ",
-      "やひろちゃん"
+      "さえきやひろ"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -2372,6 +2337,7 @@
   {
     "name": "海妹四葉",
     "readings": [
+      "うみせよつは",
       "よつはぴ"
     ],
     "affiliation": "VTuber",
@@ -2390,7 +2356,6 @@
   {
     "name": "ミリー・パフェ",
     "readings": [
-      "ふぁみりー",
       "みりーぱふぇ"
     ],
     "affiliation": "Ethyria",
@@ -2409,8 +2374,7 @@
   {
     "name": "シスター・クレア",
     "readings": [
-      "しすたーくれあ",
-      "たぬさん"
+      "しすたーくれあ"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -2709,8 +2673,7 @@
   {
     "name": "おうまゆう",
     "readings": [
-      "おうまゆう",
-      "おまゆう"
+      "おうまゆう"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -2782,7 +2745,8 @@
   {
     "name": "星導ショウ",
     "readings": [
-      "たこ"
+      "たこ",
+      "ほしるべしょう"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -2809,6 +2773,7 @@
   {
     "name": "石神のぞみ",
     "readings": [
+      "いしがみのぞみ",
       "のんちゃん"
     ],
     "affiliation": "VTuber",
@@ -2874,7 +2839,6 @@
   {
     "name": "ソフィア・ヴァレンタイン",
     "readings": [
-      "そふぃ",
       "そふぃあゔぁれんたいん"
     ],
     "affiliation": "VTuber",
@@ -2893,7 +2857,6 @@
   {
     "name": "アオイ・ヒナモリ",
     "readings": [
-      "あおい",
       "あおいひなもり"
     ],
     "affiliation": "VTuber",
@@ -3147,9 +3110,7 @@
   {
     "name": "ネリッサ・レイヴンクロフト",
     "readings": [
-      "ねり",
-      "ねりっされいゔんくろふと",
-      "りっさ"
+      "ねりっされいゔんくろふと"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -3204,6 +3165,7 @@
     "name": "久遠たま",
     "readings": [
       "おたま",
+      "くおんたま",
       "たまちゃん"
     ],
     "affiliation": "VTuber",
@@ -3276,6 +3238,7 @@
   {
     "name": "栞葉るり",
     "readings": [
+      "しおりはるり",
       "るりどっぐ"
     ],
     "affiliation": "VTuber",
@@ -3294,9 +3257,7 @@
   {
     "name": "アーリオ・オーリオ・エ・ペペロンチーノ",
     "readings": [
-      "あーりおおーりおえぺぺろんちーの",
-      "ぺぺ",
-      "ぺぺち"
+      "あーりおおーりおえぺぺろんちーの"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -3333,6 +3294,7 @@
   {
     "name": "早乙女ベリー",
     "readings": [
+      "さおとめべりい",
       "さおとめべりー",
       "べりち"
     ],
@@ -3382,6 +3344,7 @@
     "name": "篠宮ゆの",
     "readings": [
       "しのみや",
+      "しのみやゆの",
       "しのみーる"
     ],
     "affiliation": "VTuber",
@@ -3419,8 +3382,7 @@
   {
     "name": "くるる",
     "readings": [
-      "くるる",
-      "くるるてんてー"
+      "くるる"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -3439,7 +3401,8 @@
     "name": "城瀬いすみ",
     "readings": [
       "いすみゃ",
-      "くらすみゃいと"
+      "くらすみゃいと",
+      "しろせいすみ"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -3448,6 +3411,7 @@
   {
     "name": "小森めと",
     "readings": [
+      "こもりめと",
       "めっさん"
     ],
     "affiliation": "VTuber",
@@ -3487,10 +3451,7 @@
   {
     "name": "ぷりん・らら・もーど",
     "readings": [
-      "ぷりん",
-      "ぷりんちゃん",
-      "ぷりんららもーど",
-      "らら"
+      "ぷりんららもーど"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -3499,9 +3460,6 @@
   {
     "name": "ぽめろ・ぱんち",
     "readings": [
-      "ぱんち",
-      "ぽめろ",
-      "ぽめろちゃん",
       "ぽめろぱんち"
     ],
     "affiliation": "VTuber",
@@ -3615,7 +3573,6 @@
   {
     "name": "ナ・セラ",
     "readings": [
-      "けせら",
       "なせら"
     ],
     "affiliation": "VTuber",
@@ -3625,6 +3582,7 @@
   {
     "name": "小清水透",
     "readings": [
+      "こしみずとおる",
       "しーちゃん"
     ],
     "affiliation": "VTuber",
@@ -3634,7 +3592,6 @@
   {
     "name": "ミン・スゥーハ",
     "readings": [
-      "すは",
       "みんすぅーは"
     ],
     "affiliation": "VTuber",
@@ -3644,6 +3601,7 @@
   {
     "name": "雲母たまこ",
     "readings": [
+      "きららたまこ",
       "たまこ"
     ],
     "affiliation": "VTuber",
@@ -3682,6 +3640,7 @@
   {
     "name": "榊ネス",
     "readings": [
+      "さかきねす",
       "ねっしー"
     ],
     "affiliation": "VTuber",
@@ -3765,6 +3724,7 @@
   {
     "name": "梢桃音",
     "readings": [
+      "こずえもね",
       "ぽやぽやのたぬき",
       "もねごん",
       "もねち"
@@ -3812,6 +3772,7 @@
   {
     "name": "北見遊征",
     "readings": [
+      "きたみゆうせい",
       "きたみん",
       "くーるがい"
     ],
@@ -3823,7 +3784,8 @@
     "name": "獅子堂あかり",
     "readings": [
       "あかぴゃ",
-      "うおうお"
+      "うおうお",
+      "ししどうあかり"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -3851,6 +3813,7 @@
   {
     "name": "綺沙良",
     "readings": [
+      "きさら",
       "きーちゃん"
     ],
     "affiliation": "VTuber",
@@ -3890,6 +3853,7 @@
   {
     "name": "五十嵐梨花",
     "readings": [
+      "いがらしりか",
       "りかしぃ"
     ],
     "affiliation": "VTuber",
@@ -4001,6 +3965,7 @@
   {
     "name": "宝鐘マリン",
     "readings": [
+      "ほうしょうまりん",
       "まりりん"
     ],
     "affiliation": "VTuber",
@@ -4010,7 +3975,6 @@
   {
     "name": "ばあちゃる",
     "readings": [
-      "うびば",
       "ばあちゃる"
     ],
     "affiliation": "VTuber",
@@ -4066,7 +4030,8 @@
   {
     "name": "先斗寧",
     "readings": [
-      "ぽんちゃん"
+      "ぽんちゃん",
+      "ぽんとねい"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -4143,5 +4108,1499 @@
     "affiliation": "VTuber",
     "category": "人名",
     "source": "http://www.wikidata.org/entity/Q138516653"
+  },
+  {
+    "name": "渋谷ハジメ",
+    "readings": [
+      "しぶやはじめ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "宇志海いちご",
+    "readings": [
+      "うしみいちご"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "家長むぎ",
+    "readings": [
+      "いえながむぎ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "夕陽リリ",
+    "readings": [
+      "ゆうひりり"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "文野環",
+    "readings": [
+      "ふみのたまき"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "伏見ガク",
+    "readings": [
+      "ふしみがく"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "ギルザレンIII世",
+    "readings": [
+      "ぎるざれんさんせい"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "森中花咲",
+    "readings": [
+      "もりなかかざき"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "赤羽葉子",
+    "readings": [
+      "あかばねようこ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "社築",
+    "readings": [
+      "やしろきずく"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "春崎エアル",
+    "readings": [
+      "はるさきえある"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "魔界ノりりむ",
+    "readings": [
+      "まかいのりりむ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "神田笑一",
+    "readings": [
+      "かんだしょういち"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "飛鳥ひな",
+    "readings": [
+      "あすかひな"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "雨森小夜",
+    "readings": [
+      "あめもりさよ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "鷹宮リオン",
+    "readings": [
+      "たかみやりおん"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "舞元啓介",
+    "readings": [
+      "まいもとけいすけ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "竜胆尊",
+    "readings": [
+      "りんどうみこと"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "桜凛月",
+    "readings": [
+      "さくらりつき"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "町田ちま",
+    "readings": [
+      "まちたちま"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "ジョー・力一",
+    "readings": [
+      "じょーりきいち"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "矢車りね",
+    "readings": [
+      "やぐるまりね"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "夢月ロア",
+    "readings": [
+      "ゆづきろあ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "語部紡",
+    "readings": [
+      "かたりべつむぐ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "戌亥とこ",
+    "readings": [
+      "いぬいとこ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "愛園愛美",
+    "readings": [
+      "あいぞのまなみ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "雪城眞尋",
+    "readings": [
+      "ゆきしろまひろ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "葉山舞鈴",
+    "readings": [
+      "はやままりん"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "早瀬走",
+    "readings": [
+      "はやせそう"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "健屋花那",
+    "readings": [
+      "すこやかな"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "ましろ爻",
+    "readings": [
+      "ましろめめ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "空星きらめ",
+    "readings": [
+      "そらほしきらめ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "東堂コハク",
+    "readings": [
+      "とうどうこはく"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "北小路ヒスイ",
+    "readings": [
+      "きたこうじひすい"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "西園チグサ",
+    "readings": [
+      "にしぞのちぐさ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "明楽レイ",
+    "readings": [
+      "あきられい"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "天ヶ瀬むゆ",
+    "readings": [
+      "あまがせむゆ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "風楽奏斗",
+    "readings": [
+      "ふうらかなと"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "四季凪アキラ",
+    "readings": [
+      "しきなぎあきら"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "倉持めると",
+    "readings": [
+      "くらもちめると"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "佐伯イッテツ",
+    "readings": [
+      "さいきいってつ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "宇佐美リト",
+    "readings": [
+      "うさみりと"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "魁星",
+    "readings": [
+      "かいせい"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "一橋綾人",
+    "readings": [
+      "ひとつばしあやと"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "花籠つばさ",
+    "readings": [
+      "はなかごつばさ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "白砂あやね",
+    "readings": [
+      "しらさあやね"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "御子神琴音",
+    "readings": [
+      "みこがみことね"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "勇気ちひろ",
+    "readings": [
+      "ゆうきちひろ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "海夜叉神",
+    "readings": [
+      "うみやしゃのかみ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "八朔ゆず",
+    "readings": [
+      "はっさくゆず"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "名伽尾アズマ",
+    "readings": [
+      "なかおあずま"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "出雲霞",
+    "readings": [
+      "いずもかすみ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "黒羽黒兎",
+    "readings": [
+      "くろはねくろと"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "神成ポアロ",
+    "readings": [
+      "かみなりぽあろ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "成瀬鳴",
+    "readings": [
+      "なるせなる"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "闇夜乃モルル",
+    "readings": [
+      "やみよのもるる"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "雪汝",
+    "readings": [
+      "せつな"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "鳴門こがね",
+    "readings": [
+      "なるとこがね"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "月見しずく",
+    "readings": [
+      "つきみしずく"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "遠北千南",
+    "readings": [
+      "あちきたちなみ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "久遠千歳",
+    "readings": [
+      "くどうちとせ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "郡道美玲",
+    "readings": [
+      "ぐんどうみれい"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "瀬戸美夜子",
+    "readings": [
+      "せとみやこ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "小野町春香",
+    "readings": [
+      "おのまちはるか"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "黛灰",
+    "readings": [
+      "まゆずみかい"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "真堂雷斗",
+    "readings": [
+      "しんどうらいと"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "金魚坂めいろ",
+    "readings": [
+      "きんぎょざかめいろ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "Finana Ryugu（フィナーナ 竜宮）",
+    "readings": [
+      "ふぃなーなりゅうぐう"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "Shu Yamino（闇ノシュウ）",
+    "readings": [
+      "やみのしゅう"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "Uki Violeta（浮奇・ヴィオレタ）",
+    "readings": [
+      "うきゔぃおれた"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "Meloco Kyoran（狂蘭 メロコ）",
+    "readings": [
+      "きょうらんめろこ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "Ryoma Barrenwort（凉舞 バレンウォート）",
+    "readings": [
+      "りょうまばれんうぉーと"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "Nina Kosaka（狐坂ニナ）",
+    "readings": [
+      "こさかにな"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "Reimu Endou（遠藤霊夢）",
+    "readings": [
+      "えんどうれいむ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "Yugo Asuma（遊間ユーゴ）",
+    "readings": [
+      "あすまゆーご"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "Kyo Kaneko（金子 鏡）",
+    "readings": [
+      "かねこきょう"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "Kotoka Torahime（虎姫 コトカ）",
+    "readings": [
+      "とらひめことか"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "Kunai Nakasato（中里 苦無）",
+    "readings": [
+      "なかさとくない"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "Selen Tatsuki（セレン 龍月）",
+    "readings": [
+      "せれんたつき"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "Zaion LanZa（ランザー 罪恩）",
+    "readings": [
+      "らんざーざいおん"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/にじさんじ"
+  },
+  {
+    "name": "花芽なずな",
+    "readings": [
+      "かがなずな"
+    ],
+    "affiliation": "ぶいすぽっ！",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/ぶいすぽっ!_Virtual_eSports_Project"
+  },
+  {
+    "name": "小雀とと",
+    "readings": [
+      "こがらとと"
+    ],
+    "affiliation": "ぶいすぽっ！",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/ぶいすぽっ!_Virtual_eSports_Project"
+  },
+  {
+    "name": "[[胡桃のあ]]",
+    "readings": [
+      "くるみのあ"
+    ],
+    "affiliation": "ぶいすぽっ！",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/ぶいすぽっ!_Virtual_eSports_Project"
+  },
+  {
+    "name": "兎咲ミミ",
+    "readings": [
+      "とさきみみ"
+    ],
+    "affiliation": "ぶいすぽっ！",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/ぶいすぽっ!_Virtual_eSports_Project"
+  },
+  {
+    "name": "[[空澄セナ]]",
+    "readings": [
+      "あすみせな"
+    ],
+    "affiliation": "ぶいすぽっ！",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/ぶいすぽっ!_Virtual_eSports_Project"
+  },
+  {
+    "name": "橘ひなの",
+    "readings": [
+      "たちばなひなの"
+    ],
+    "affiliation": "ぶいすぽっ！",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/ぶいすぽっ!_Virtual_eSports_Project"
+  },
+  {
+    "name": "英リサ",
+    "readings": [
+      "はなぶさりさ"
+    ],
+    "affiliation": "ぶいすぽっ！",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/ぶいすぽっ!_Virtual_eSports_Project"
+  },
+  {
+    "name": "如月れん",
+    "readings": [
+      "きさらぎれん"
+    ],
+    "affiliation": "ぶいすぽっ！",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/ぶいすぽっ!_Virtual_eSports_Project"
+  },
+  {
+    "name": "神成きゅぴ",
+    "readings": [
+      "かみなりきゅぴ"
+    ],
+    "affiliation": "ぶいすぽっ！",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/ぶいすぽっ!_Virtual_eSports_Project"
+  },
+  {
+    "name": "藍沢エマ",
+    "readings": [
+      "あいざわえま"
+    ],
+    "affiliation": "ぶいすぽっ！",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/ぶいすぽっ!_Virtual_eSports_Project"
+  },
+  {
+    "name": "紫宮るな",
+    "readings": [
+      "しのみやるな"
+    ],
+    "affiliation": "ぶいすぽっ！",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/ぶいすぽっ!_Virtual_eSports_Project"
+  },
+  {
+    "name": "猫汰つな",
+    "readings": [
+      "ねこたつな"
+    ],
+    "affiliation": "ぶいすぽっ！",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/ぶいすぽっ!_Virtual_eSports_Project"
+  },
+  {
+    "name": "白波らむね",
+    "readings": [
+      "しらなみらむね"
+    ],
+    "affiliation": "ぶいすぽっ！",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/ぶいすぽっ!_Virtual_eSports_Project"
+  },
+  {
+    "name": "夢野あかり",
+    "readings": [
+      "ゆめのあかり"
+    ],
+    "affiliation": "ぶいすぽっ！",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/ぶいすぽっ!_Virtual_eSports_Project"
+  },
+  {
+    "name": "夜乃くろむ",
+    "readings": [
+      "やのくろむ"
+    ],
+    "affiliation": "ぶいすぽっ！",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/ぶいすぽっ!_Virtual_eSports_Project"
+  },
+  {
+    "name": "紡木こかげ",
+    "readings": [
+      "つむぎこかげ"
+    ],
+    "affiliation": "ぶいすぽっ！",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/ぶいすぽっ!_Virtual_eSports_Project"
+  },
+  {
+    "name": "千燈ゆうひ",
+    "readings": [
+      "せんどうゆうひ"
+    ],
+    "affiliation": "ぶいすぽっ！",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/ぶいすぽっ!_Virtual_eSports_Project"
+  },
+  {
+    "name": "蝶屋はなび",
+    "readings": [
+      "ちょうやはなび"
+    ],
+    "affiliation": "ぶいすぽっ！",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/ぶいすぽっ!_Virtual_eSports_Project"
+  },
+  {
+    "name": "甘結もか",
+    "readings": [
+      "あまゆいもか"
+    ],
+    "affiliation": "ぶいすぽっ！",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/ぶいすぽっ!_Virtual_eSports_Project"
+  },
+  {
+    "name": "銀城サイネ",
+    "readings": [
+      "ぎんじょうさいね"
+    ],
+    "affiliation": "ぶいすぽっ！",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/ぶいすぽっ!_Virtual_eSports_Project"
+  },
+  {
+    "name": "龍巻ちせ",
+    "readings": [
+      "たつまきちせ"
+    ],
+    "affiliation": "ぶいすぽっ！",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/ぶいすぽっ!_Virtual_eSports_Project"
+  },
+  {
+    "name": "Chibidoki",
+    "readings": [
+      "ちびどき"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Chibidoki"
+  },
+  {
+    "name": "Kanaria",
+    "readings": [
+      "かなりあ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Kanaria"
+  },
+  {
+    "name": "北見六花",
+    "readings": [
+      "きたみりっか"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E5%8C%97%E8%A6%8B%E5%85%AD%E8%8A%B1"
+  },
+  {
+    "name": "千羽黒乃",
+    "readings": [
+      "せんばくろの"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E5%8D%83%E7%BE%BD%E9%BB%92%E4%B9%83"
+  },
+  {
+    "name": "N子・メイ・黒野",
+    "readings": [
+      "えぬこめいくろの"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/N%E5%AD%90%E3%83%BB%E3%83%A1%E3%82%A4%E3%83%BB%E9%BB%92%E9%87%8E"
+  },
+  {
+    "name": "VTuber Fes Japan",
+    "readings": [
+      "ぶいちゅーばーふぇすじゃぱん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/VTuber%20Fes%20Japan"
+  },
+  {
+    "name": "博衣こより",
+    "readings": [
+      "はくいこより"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E5%8D%9A%E8%A1%A3%E3%81%93%E3%82%88%E3%82%8A"
+  },
+  {
+    "name": "Chihiro",
+    "readings": [
+      "ちひろ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Chihiro%20%28%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%29"
+  },
+  {
+    "name": "Fra",
+    "readings": [
+      "ふら"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Fra%20%28%E3%83%A9%E3%83%83%E3%83%91%E3%83%BC%29"
+  },
+  {
+    "name": "KEI",
+    "readings": [
+      "けい"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/KEI%20%28%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%29"
+  },
+  {
+    "name": "Lack",
+    "readings": [
+      "らっく"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Lack"
+  },
+  {
+    "name": "Mika Pikazo",
+    "readings": [
+      "みかぴかぞ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Mika%20Pikazo"
+  },
+  {
+    "name": "Te'resa",
+    "readings": [
+      "てれさ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Te%27resa"
+  },
+  {
+    "name": "V.W.P",
+    "readings": [
+      "ぶいだぶりゅーぴー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/V.W.P"
+  },
+  {
+    "name": "宇宙物理たんbot",
+    "readings": [
+      "うちゅうぶつりたんぼっと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E7%89%A9%E7%90%86%E3%81%9F%E3%82%93bot"
+  },
+  {
+    "name": "A-SOUL",
+    "readings": [
+      "べら"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/A-SOUL"
+  },
+  {
+    "name": "のばん組",
+    "readings": [
+      "のばんぐみ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E3%81%AE%E3%81%B0%E3%82%93%E7%B5%84"
+  },
+  {
+    "name": "るび様",
+    "readings": [
+      "るびさま"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E3%82%8B%E3%81%B3%E6%A7%98"
+  },
+  {
+    "name": "一条莉々華",
+    "readings": [
+      "いちじょうりりか"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E4%B8%80%E6%9D%A1%E8%8E%89%E3%80%85%E8%8F%AF"
+  },
+  {
+    "name": "天音かなた",
+    "readings": [
+      "あまねかなた"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E9%9F%B3%E3%81%8B%E3%81%AA%E3%81%9F"
+  },
+  {
+    "name": "彩葉ねいろ",
+    "readings": [
+      "いろはねいろ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E5%BD%A9%E8%91%89%E3%81%AD%E3%81%84%E3%82%8D"
+  },
+  {
+    "name": "CodeMiko",
+    "readings": [
+      "こーどみこ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/CodeMiko"
+  },
+  {
+    "name": "Emma Hazy Minami",
+    "readings": [
+      "えまへいじーみなみ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Emma%20Hazy%20Minami"
+  },
+  {
+    "name": "GEMS COMPANY",
+    "readings": [
+      "じぇむずかんぱにー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/GEMS%20COMPANY"
+  },
+  {
+    "name": "信州なかの",
+    "readings": [
+      "しんしゅうなかの"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E4%BF%A1%E5%B7%9E%E3%81%AA%E3%81%8B%E3%81%AE"
+  },
+  {
+    "name": "リロ氏",
+    "readings": [
+      "りろし"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%AD%E6%B0%8F"
+  },
+  {
+    "name": "一ノ瀬みか",
+    "readings": [
+      "いちのせみか"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E4%B8%80%E3%83%8E%E7%80%AC%E3%81%BF%E3%81%8B"
+  },
+  {
+    "name": "Hello, world",
+    "readings": [
+      "はろーわーるど"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Hello%2C%20world%20%28%E3%82%AD%E3%82%BA%E3%83%8A%E3%82%A2%E3%82%A4%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%29"
+  },
+  {
+    "name": "IRIAM",
+    "readings": [
+      "いりあむ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/IRIAM"
+  },
+  {
+    "name": "PALOW.",
+    "readings": [
+      "ぱろう"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/PALOW."
+  },
+  {
+    "name": "VTuberチップス",
+    "readings": [
+      "ぶいちゅーばーちっぷす"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/VTuber%E3%83%81%E3%83%83%E3%83%97%E3%82%B9"
+  },
+  {
+    "name": "Vα-liv",
+    "readings": [
+      "ゔいあらいゔ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/V%CE%B1-liv"
+  },
+  {
+    "name": "バーチャルネットアイドル ちゆ12歳",
+    "readings": [
+      "ばーちゃるねっとあいどるちゆじゅうにさい"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%83%8D%E3%83%83%E3%83%88%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%20%E3%81%A1%E3%82%8612%E6%AD%B3"
+  },
+  {
+    "name": "上倉エク",
+    "readings": [
+      "うえくらえく"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%80%89%E3%82%A8%E3%82%AF"
+  },
+  {
+    "name": "伊東ライフ",
+    "readings": [
+      "いとうらいふ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E6%9D%B1%E3%83%A9%E3%82%A4%E3%83%95"
+  },
+  {
+    "name": "PIEDPIPER",
+    "readings": [
+      "ぱいどぱいぱー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/PIEDPIPER"
+  },
+  {
+    "name": "ご当地Vtuber",
+    "readings": [
+      "ごとうちぶいちゅーばー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E3%81%94%E5%BD%93%E5%9C%B0Vtuber"
+  },
+  {
+    "name": "九条林檎",
+    "readings": [
+      "くじょうりんご"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E6%9D%A1%E6%9E%97%E6%AA%8E"
+  },
+  {
+    "name": "初凪なの",
+    "readings": [
+      "はつなぎなの"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E5%88%9D%E5%87%AA%E3%81%AA%E3%81%AE"
+  },
+  {
+    "name": "VALIS",
+    "readings": [
+      "ゔぁりす"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/VALIS"
+  },
+  {
+    "name": "バーチャルYouTuber",
+    "readings": [
+      "ばーちゃるゆーちゅーばー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%ABYouTuber"
+  },
+  {
+    "name": "中井みのる",
+    "readings": [
+      "なかいみのる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E4%BA%95%E3%81%BF%E3%81%AE%E3%82%8B"
+  },
+  {
+    "name": "存流",
+    "readings": [
+      "ある"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E5%AD%98%E6%B5%81"
+  },
+  {
+    "name": "きょん八丈島",
+    "readings": [
+      "きょんはちじょうじま"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E3%81%8D%E3%82%87%E3%82%93%E5%85%AB%E4%B8%88%E5%B3%B6"
+  },
+  {
+    "name": "AVTuber",
+    "readings": [
+      "えいぶいちゅーばー"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/AVTuber"
+  },
+  {
+    "name": "Project COLD",
+    "readings": [
+      "ぷろじぇくとこーるど"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Project%20COLD"
+  },
+  {
+    "name": "22/7",
+    "readings": [
+      "ななぶんのにじゅうに"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/22/7%20%28%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%29"
+  },
+  {
+    "name": "刀ピークリスマス",
+    "readings": [
+      "とうぴーくりすます"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E5%88%80%E3%83%94%E3%83%BC%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9"
+  },
+  {
+    "name": "姫森ルーナ",
+    "readings": [
+      "ひめもりるーな"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E5%A7%AB%E6%A3%AE%E3%83%AB%E3%83%BC%E3%83%8A"
+  },
+  {
+    "name": "Huke",
+    "readings": [
+      "ふけ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Huke"
+  },
+  {
+    "name": "Redjuice",
+    "readings": [
+      "れっどじゅーす"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Redjuice"
+  },
+  {
+    "name": "凪白みと",
+    "readings": [
+      "なぎしろみと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E5%87%AA%E7%99%BD%E3%81%BF%E3%81%A8"
+  },
+  {
+    "name": "勇者ノト",
+    "readings": [
+      "ゆうしゃのと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E5%8B%87%E8%80%85%E3%83%8E%E3%83%88"
+  },
+  {
+    "name": "地球ちゃん",
+    "readings": [
+      "ちきゅうちゃん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%83%E3%81%A1%E3%82%83%E3%82%93"
+  },
+  {
+    "name": "CIEL",
+    "readings": [
+      "しえる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/CIEL"
+  },
+  {
+    "name": "MonsterZ MATE",
+    "readings": [
+      "もんすたーずめいと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/MonsterZ%20MATE"
+  },
+  {
+    "name": "Rurudo",
+    "readings": [
+      "るるど"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Rurudo"
+  },
+  {
+    "name": "Virtual Cast",
+    "readings": [
+      "ばーちゃるきゃすと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/Virtual%20Cast"
+  },
+  {
+    "name": "バ美肉",
+    "readings": [
+      "ばびにく"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E3%83%90%E7%BE%8E%E8%82%89"
+  },
+  {
+    "name": "七海うらら",
+    "readings": [
+      "ななみうらら"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E4%B8%83%E6%B5%B7%E3%81%86%E3%82%89%E3%82%89"
+  },
+  {
+    "name": "根間うい",
+    "readings": [
+      "ねまうい"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E6%A0%B9%E9%96%93%E3%81%86%E3%81%84"
+  },
+  {
+    "name": "江戸レナ",
+    "readings": [
+      "えどれな"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E6%88%B8%E3%83%AC%E3%83%8A"
+  },
+  {
+    "name": "泠鳶yousa",
+    "readings": [
+      "りーんゆえんようさ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E6%B3%A0%E9%B3%B6yousa"
+  },
+  {
+    "name": "白銀ノエル",
+    "readings": [
+      "しろがねのえる"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://ja.wikipedia.org/wiki/%E7%99%BD%E9%8A%80%E3%83%8E%E3%82%A8%E3%83%AB"
+  },
+  {
+    "name": "不知火フレア",
+    "readings": [
+      "しらぬいふれあ"
+    ],
+    "affiliation": "ホロライブ",
+    "category": "人名",
+    "source": "manual_override"
   }
 ]

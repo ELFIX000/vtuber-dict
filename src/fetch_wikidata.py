@@ -103,10 +103,7 @@ def fetch_from_wikidata(limit: int = 3000):
         # 1. 明示的な読み仮名プロパティ (P1814)
         if kana:
             add_reading(kana)
-        # 2. 別名 (altLabel) が仮名表記の場合
-        if alt and is_kana_only(alt):
-            add_reading(alt)
-        # 3. 単語名自体が仮名のみの場合（例: ルンルン、でびでび・でびる）
+        # 2. 単語名自体が仮名のみの場合（例: ルンルン、でびでび・でびる）
         if is_kana_only(name):
             add_reading(name)
 
@@ -164,6 +161,21 @@ def main():
         return
 
     merged, added, updated = merge_records(existing, fetched)
+
+    # overrides の適用（誤読の保護）
+    overrides_file = base_dir / "data" / "overrides.json"
+    if overrides_file.exists():
+        with open(overrides_file, "r", encoding="utf-8") as f:
+            overrides = json.load(f)
+        merged_map = {item["name"]: item for item in merged}
+        for o in overrides:
+            if o["name"] in merged_map:
+                merged_map[o["name"]]["readings"] = o["readings"]
+                if "affiliation" in o and o["affiliation"] != "VTuber":
+                    merged_map[o["name"]]["affiliation"] = o["affiliation"]
+            else:
+                merged.append(o)
+
     with open(data_file, "w", encoding="utf-8") as f:
         json.dump(merged, f, ensure_ascii=False, indent=2)
 

@@ -128,6 +128,18 @@ def main():
     dist_dir.mkdir(exist_ok=True)
 
     entries = load_data(data_file)
+    # overrides があれば適用（二重防御）
+    overrides_file = base_dir / "data" / "overrides.json"
+    if overrides_file.exists():
+        overrides = load_data(overrides_file)
+        entry_map = {item["name"]: item for item in entries}
+        for o in overrides:
+            if o["name"] in entry_map:
+                entry_map[o["name"]]["readings"] = o["readings"]
+                if "affiliation" in o and o["affiliation"] != "VTuber":
+                    entry_map[o["name"]]["affiliation"] = o["affiliation"]
+            else:
+                entries.append(o)
     print(f"Loaded {len(entries)} VTuber records.")
 
     build_google_ime(entries, dist_dir / "google_ime.txt")

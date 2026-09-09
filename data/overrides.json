@@ -1,0 +1,119 @@
+[
+  {
+    "name": "花畑チャイカ",
+    "readings": [
+      "はなばたけちゃいか"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "note": "Wikidataの誤読(チャイカブライン)を正規読みに修正"
+  },
+  {
+    "name": "葉加瀬冬雪",
+    "readings": [
+      "はかせふゆき"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "note": "Wikidataのファンネーム誤読(らぼめん)を正規読みに修正"
+  },
+  {
+    "name": "樋口楓",
+    "readings": [
+      "ひぐちかえで"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "note": "愛称(でろーん)を除外し正規読みに統一"
+  },
+  {
+    "name": "電脳少女シロ",
+    "readings": [
+      "でんのうしょうじょしろ"
+    ],
+    "affiliation": ".LIVE",
+    "category": "人名",
+    "note": "ファンネーム(しろいるか)を除外し正規読みに統一"
+  },
+  {
+    "name": "猫屋敷美紅",
+    "readings": [
+      "ねこやしきみく"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "note": "愛称(みくぽぽ)を除外し正規読みに統一"
+  },
+  {
+    "name": "アユンダ・リス",
+    "readings": [
+      "あゆんだりす"
+    ],
+    "affiliation": "ホロライブ",
+    "category": "人名",
+    "note": "愛称(りすちゃん)を除外し正規読みに統一"
+  },
+  {
+    "name": "白上フブキ",
+    "readings": [
+      "しらかみふぶき"
+    ],
+    "affiliation": "ホロライブ",
+    "category": "人名",
+    "note": "略称(ふぶき)を除外し正規読みに統一"
+  },
+  {
+    "name": "月ノ美兎",
+    "readings": [
+      "つきのみと"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "note": "略称(みと)を除外し正規読みに統一"
+  },
+  {
+    "name": "花芽すみれ",
+    "readings": [
+      "かがすみれ"
+    ],
+    "affiliation": "ぶいすぽっ！",
+    "category": "人名",
+    "note": "略称(すみれ)を除外し正規読みに統一"
+  },
+  {
+    "name": "一ノ瀬うるは",
+    "readings": [
+      "いちのせうるは"
+    ],
+    "affiliation": "ぶいすぽっ！",
+    "category": "人名",
+    "note": "略称(うるは)を除外し正規読みに統一"
+  },
+  {
+    "name": "名取さな",
+    "readings": [
+      "なとりさな"
+    ],
+    "affiliation": "個人勢",
+    "category": "人名",
+    "note": "略称(さな)を除外し正規読みに統一"
+  },
+  {
+    "name": "綿咲そら",
+    "readings": [
+      "わたさきそら"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "note": "ブラックリスト該当の短い読み(そら)を除外し正規読みに統一"
+  },
+  {
+    "name": "不知火フレア",
+    "readings": [
+      "しらぬいふれあ"
+    ],
+    "affiliation": "ホロライブ",
+    "category": "人名",
+    "note": "追加リクエストの検証 (ホロライブ3期生)"
+  }
+]
