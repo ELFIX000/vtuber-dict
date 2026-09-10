@@ -2,8 +2,8 @@
 
 [![Build & Release](https://github.com/ELFIX000/vtuber-dict/actions/workflows/build.yml/badge.svg)](https://github.com/ELFIX000/vtuber-dict/actions/workflows/build.yml)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/ELFIX000/vtuber-dict)](https://github.com/ELFIX000/vtuber-dict/releases/latest)
-[![収録VTuber数](https://img.shields.io/badge/収録VTuber数-1072人-2ea44f.svg)](data/vtubers.json)
-[![収録単語数](https://img.shields.io/badge/収録単語数-1158語-0969da.svg)](dist/google_ime.txt)
+[![収録VTuber数](https://img.shields.io/badge/収録VTuber数-1075人-2ea44f.svg)](data/vtubers.json)
+[![収録単語数](https://img.shields.io/badge/収録単語数-1161語-0969da.svg)](dist/google_ime.txt)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-orange.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 VTuber（バーチャルYouTuber）の名前やユニット名を、各種日本語入力システム（IME）でスムーズに一発変換できるようにするオープンソースの変換辞書プロジェクトです。

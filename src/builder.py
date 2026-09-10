@@ -14,6 +14,22 @@ import zipfile
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
+# 一般語・短縮形との衝突回避および予約エントリ用プレフィックス
+RESERVED_ENTRIES = {
+    "エルフィクス",
+    "エルフィ・ゼロス",
+    "星影えるふぃ",
+}
+RESERVED_PREFIX = "z"
+
+def get_entry_readings(item: dict) -> list:
+    """エントリの読みリストを取得。予約エントリの場合は衝突回避プレフィックスを付与。"""
+    name = item.get("name", "")
+    readings = item.get("readings", [])
+    if name in RESERVED_ENTRIES:
+        return [f"{RESERVED_PREFIX}{r}" for r in readings]
+    return readings
+
 def load_data(data_path: Path):
     with open(data_path, "r", encoding="utf-8") as f:
         return json.load(f)
@@ -24,7 +40,7 @@ def build_google_ime(entries, output_path: Path):
     for item in entries:
         name = item["name"]
         comment = item.get("affiliation", "VTuber")
-        for r in item.get("readings", []):
+        for r in get_entry_readings(item):
             lines.append(f"{r}\t{name}\t固有名詞\t{comment}")
     output_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(f"Generated: {output_path} ({len(lines)} entries)")
@@ -35,7 +51,7 @@ def build_ms_ime(entries, output_path: Path):
     for item in entries:
         name = item["name"]
         comment = item.get("affiliation", "VTuber")
-        for r in item.get("readings", []):
+        for r in get_entry_readings(item):
             lines.append(f"{r}\t{name}\t人名\t{comment}")
     content = "\r\n".join(lines) + "\r\n"
     # Write UTF-16LE with BOM
@@ -48,7 +64,7 @@ def build_atok(entries, output_path: Path):
     for item in entries:
         name = item["name"]
         comment = item.get("affiliation", "VTuber")
-        for r in item.get("readings", []):
+        for r in get_entry_readings(item):
             lines.append(f"{r}\t{name}\t固有固有名詞人名\t{comment}")
     content = "\r\n".join(lines) + "\r\n"
     output_path.write_bytes(b"\xff\xfe" + content.encode("utf-16-le"))
@@ -59,7 +75,7 @@ def build_macos_plist(entries, output_path: Path):
     plist_entries = []
     for item in entries:
         name = item["name"]
-        for r in item.get("readings", []):
+        for r in get_entry_readings(item):
             plist_entries.append(
                 f"    <dict>\n"
                 f"        <key>phrase</key>\n"
