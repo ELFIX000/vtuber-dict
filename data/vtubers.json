@@ -1398,7 +1398,6 @@
   {
     "name": "桃鈴ねね",
     "readings": [
-      "ねねち",
       "ももすずねね"
     ],
     "affiliation": "ホロライブ5期生",
@@ -1489,8 +1488,7 @@
   {
     "name": "癒月ちょこ",
     "readings": [
-      "ゆづきちょこ",
-      "さぶちゃんねる"
+      "ゆづきちょこ"
     ],
     "affiliation": "ホロライブ",
     "category": "人名",
@@ -1535,8 +1533,7 @@
   {
     "name": "轟京子",
     "readings": [
-      "とどろききょうこ",
-      "ろきぺ"
+      "とどろききょうこ"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -1581,7 +1578,6 @@
   {
     "name": "三枝明那",
     "readings": [
-      "あっきーな",
       "さえぐさあきな"
     ],
     "affiliation": "にじさんじ(統合後)",
@@ -1654,8 +1650,7 @@
   {
     "name": "奈羅花",
     "readings": [
-      "ならか",
-      "にゃらか"
+      "ならか"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -1673,7 +1668,6 @@
   {
     "name": "山神カルタ",
     "readings": [
-      "やま",
       "やまがみかるた"
     ],
     "affiliation": "VTuber",
@@ -1944,7 +1938,6 @@
   {
     "name": "▽▲TRiNITY▲▽",
     "readings": [
-      "たかみやりおん",
       "とりにてぃー"
     ],
     "affiliation": "VTuber",
@@ -1981,9 +1974,7 @@
   {
     "name": "赤井はあと",
     "readings": [
-      "あかいはあと",
-      "はあちゃま",
-      "さぶちゃんねる"
+      "あかいはあと"
     ],
     "affiliation": "ホロライブ1期生",
     "category": "人名",
@@ -2001,8 +1992,7 @@
   {
     "name": "緑仙",
     "readings": [
-      "りゅーしぇん",
-      "さぶちゃんねる"
+      "りゅーしぇん"
     ],
     "affiliation": "にじさんじ(SEEDs出身)",
     "category": "人名",
@@ -2065,8 +2055,7 @@
   {
     "name": "鈴木勝",
     "readings": [
-      "すずきまさる",
-      "まーくん"
+      "すずきまさる"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -2084,8 +2073,7 @@
   {
     "name": "御伽原江良",
     "readings": [
-      "おとぎばらえら",
-      "ぎばら"
+      "おとぎばらえら"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -2213,8 +2201,7 @@
   {
     "name": "静凛",
     "readings": [
-      "しずかりん",
-      "しずりん"
+      "しずかりん"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -2324,7 +2311,6 @@
   {
     "name": "椎名唯華",
     "readings": [
-      "しぃしぃ",
       "しいなゆいか"
     ],
     "affiliation": "VTuber",
@@ -2578,9 +2564,7 @@
   {
     "name": "周央サンゴ",
     "readings": [
-      "すおうさんご",
-      "んご",
-      "んごちゃん"
+      "すおうさんご"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -2751,7 +2735,6 @@
   {
     "name": "星導ショウ",
     "readings": [
-      "たこ",
       "ほしるべしょう"
     ],
     "affiliation": "にじさんじ(統合後)",
@@ -2779,8 +2762,7 @@
   {
     "name": "石神のぞみ",
     "readings": [
-      "いしがみのぞみ",
-      "のんちゃん"
+      "いしがみのぞみ"
     ],
     "affiliation": "VTuber",
     "category": "人名",
@@ -3972,8 +3954,7 @@
   {
     "name": "宝鐘マリン",
     "readings": [
-      "ほうしょうまりん",
-      "まりりん"
+      "ほうしょうまりん"
     ],
     "affiliation": "ホロライブ",
     "category": "人名",
@@ -9756,5 +9737,392 @@
     ],
     "affiliation": "個人勢",
     "category": "人名"
+  },
+  {
+    "name": "胡桃のあ",
+    "readings": [
+      "くるみのあ"
+    ],
+    "affiliation": "ぶいすぽっ！",
+    "category": "人名",
+    "source": "https://vspo.jp/member/kurumi-noa/"
+  },
+  {
+    "name": "青桐エイル",
+    "readings": [
+      "あおぎりえいる"
+    ],
+    "affiliation": "ぶいすぽっ！",
+    "category": "人名",
+    "source": "https://vspo.jp/member/aogiri-eiru/"
+  },
+  {
+    "name": "倉持めめ",
+    "readings": [
+      "くらもちめめ"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://www.nijisanji.jp/talents/l/meme-kuramochi"
+  },
+  {
+    "name": "早乙女あずき",
+    "readings": [
+      "さおとめあずき"
+    ],
+    "affiliation": "にじさんじ",
+    "category": "人名",
+    "source": "https://www.nijisanji.jp/talents/l/azuki-saotome"
+  },
+  {
+    "name": "石狩あかり",
+    "readings": [
+      "いしかりあかり"
+    ],
+    "affiliation": "あおぎり高校",
+    "category": "人名",
+    "source": "https://aogirihighschool.com/member/akari_ishikari/"
+  },
+  {
+    "name": "栗駒こまる",
+    "readings": [
+      "くりこまこまる"
+    ],
+    "affiliation": "あおぎり高校",
+    "category": "人名",
+    "source": "https://aogirihighschool.com/member/komaru_kurikoma/"
+  },
+  {
+    "name": "千代浦蝶美",
+    "readings": [
+      "ちようらちよみ"
+    ],
+    "affiliation": "あおぎり高校",
+    "category": "人名",
+    "source": "https://aogirihighschool.com/member/chiyomi_chiyoura/"
+  },
+  {
+    "name": "春雨麗女",
+    "readings": [
+      "はるさめうらめ"
+    ],
+    "affiliation": "あおぎり高校",
+    "category": "人名",
+    "source": "https://aogirihighschool.com/member/urame_harusame/"
+  },
+  {
+    "name": "萌恵める",
+    "readings": [
+      "もえめる"
+    ],
+    "affiliation": "あおぎり高校",
+    "category": "人名",
+    "source": "https://aogirihighschool.com/member/meru_moe/"
+  },
+  {
+    "name": "蒼海瑞葵",
+    "readings": [
+      "あおいみずき"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://youtube.com/@aoimizuki_vt"
+  },
+  {
+    "name": "ぷくのすけ",
+    "readings": [
+      "ぷくのすけ"
+    ],
+    "affiliation": "Vライバー",
+    "category": "人名",
+    "source": "https://x.com/pukunoc_v"
+  },
+  {
+    "name": "海月ダリア",
+    "readings": [
+      "しづきだりあ"
+    ],
+    "affiliation": "Vライバー",
+    "category": "人名",
+    "source": "https://x.com/Shizuki_Dahlia"
+  },
+  {
+    "name": "アルシェン",
+    "readings": [
+      "あるしぇん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://youtube.com/@AlshenCh"
+  },
+  {
+    "name": "暁美りぜ",
+    "readings": [
+      "あけみりぜ"
+    ],
+    "affiliation": "Vライバー",
+    "category": "人名",
+    "source": "https://x.com/akemi_rize"
+  },
+  {
+    "name": "弥生よつば",
+    "readings": [
+      "やよいよつば"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://www.youtube.com/@yayoi_yotsuba"
+  },
+  {
+    "name": "安倍景",
+    "readings": [
+      "あべのひかり"
+    ],
+    "affiliation": "Vライバー",
+    "category": "人名",
+    "source": "https://x.com/Hikari_Abeno"
+  },
+  {
+    "name": "聖園ヒカリ",
+    "readings": [
+      "みそのひかり"
+    ],
+    "affiliation": "Vライバー",
+    "category": "人名",
+    "source": "https://x.com/misono_hikari"
+  },
+  {
+    "name": "有栖川アイル",
+    "readings": [
+      "ありすがわあいる"
+    ],
+    "affiliation": "Vライバー",
+    "category": "人名",
+    "source": "https://x.com/ArisugawaAiru"
+  },
+  {
+    "name": "黒羽天音",
+    "readings": [
+      "くろはあまね"
+    ],
+    "affiliation": "Vライバー",
+    "category": "人名",
+    "source": "https://x.com/Kuroha_Amane"
+  },
+  {
+    "name": "北条みる",
+    "readings": [
+      "ほうじょうみる"
+    ],
+    "affiliation": "Vライバー",
+    "category": "人名",
+    "source": "https://x.com/Hojo_Miru"
+  },
+  {
+    "name": "東雲澪",
+    "readings": [
+      "しののめみお"
+    ],
+    "affiliation": "Vライバー",
+    "category": "人名",
+    "source": "https://x.com/mio_shino_321"
+  },
+  {
+    "name": "詩音こたつ",
+    "readings": [
+      "うたたねこたつ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://youtube.com/channel/UCDa6ykykt-RFI8SN_pkurSQ"
+  },
+  {
+    "name": "紫海悠仁",
+    "readings": [
+      "しかいゆうじ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://www.youtube.com/@yuji_shikai_12"
+  },
+  {
+    "name": "東雲スイ",
+    "readings": [
+      "しののめすい"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://www.youtube.com/@4nonome_31"
+  },
+  {
+    "name": "猫宮うさぎ",
+    "readings": [
+      "ねこみやうさぎ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://youtube.com/@necomiyausagi"
+  },
+  {
+    "name": "宮比しろ",
+    "readings": [
+      "みやびしろ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://www.youtube.com/channel/UC5OkdKIGFxr5PHG9N3nNhGg"
+  },
+  {
+    "name": "狐宮こちゃき",
+    "readings": [
+      "きつねみやこちゃき"
+    ],
+    "affiliation": "Vライバー",
+    "category": "人名",
+    "source": "https://x.com/cochaki_v"
+  },
+  {
+    "name": "黒胡麻ネロ",
+    "readings": [
+      "くろごまねろ"
+    ],
+    "affiliation": "Vライバー",
+    "category": "人名",
+    "source": "https://x.com/kurogoma_nero"
+  },
+  {
+    "name": "上遠野イラミ",
+    "readings": [
+      "かどうのいらみ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://youtube.com/channel/UCGTbbGGOOivUfVdkNGF9qyA"
+  },
+  {
+    "name": "朝露ひまり",
+    "readings": [
+      "あさつゆひまり"
+    ],
+    "affiliation": "Vライバー",
+    "category": "人名",
+    "source": "https://x.com/asatsuyu_himari"
+  },
+  {
+    "name": "杜俐乃ピノ",
+    "readings": [
+      "とりのぴの"
+    ],
+    "affiliation": "Vライバー",
+    "category": "人名",
+    "source": "https://x.com/torino_pino"
+  },
+  {
+    "name": "星月ななせ",
+    "readings": [
+      "ほしづきななせ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://www.youtube.com/@nanase_hoshizuki"
+  },
+  {
+    "name": "チョコみん",
+    "readings": [
+      "ちょこみん"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://www.youtube.com/@chocomin0310"
+  },
+  {
+    "name": "癒色えも",
+    "readings": [
+      "いしきえも"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://note.com/ishiki_emo/n/n86e46e0ba925"
+  },
+  {
+    "name": "花野彩晴",
+    "readings": [
+      "はなのいろは"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://www.youtube.com/channel/UChQKyaipbRo2C-M-_oOJ4_w"
+  },
+  {
+    "name": "夢空愛里鈴",
+    "readings": [
+      "ゆめかありす"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://note.com/yumeka_alice/n/n0bd8066990d6"
+  },
+  {
+    "name": "白銀モカ",
+    "readings": [
+      "しろがねもか"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://www.youtube.com/@shiroganemoka"
+  },
+  {
+    "name": "宵月灯",
+    "readings": [
+      "よいつきともり"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://www.youtube.com/channel/UClQ_JfAZ2h7rfXSZh3Z6uPA"
+  },
+  {
+    "name": "ときの喜乃",
+    "readings": [
+      "ときのきの"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://www.youtube.com/@tkinoworks"
+  },
+  {
+    "name": "柊木蒼桜音",
+    "readings": [
+      "ひいらぎあおと"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://www.twitch.tv/aoto_hiiragi"
+  },
+  {
+    "name": "星槻にゃお",
+    "readings": [
+      "ほしつきにゃお"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://www.youtube.com/@%E6%98%9F%E6%A7%BB%E3%81%AB%E3%82%83%E3%81%8A_Ch"
+  },
+  {
+    "name": "神楽裂タニオ",
+    "readings": [
+      "かぐらさきたにお"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://www.youtube.com/@kagurasaki_tanio"
+  },
+  {
+    "name": "梵そよぎ",
+    "readings": [
+      "そよぎそよぎ"
+    ],
+    "affiliation": "VTuber",
+    "category": "人名",
+    "source": "https://x.com/soyo_gi"
   }
 ]
